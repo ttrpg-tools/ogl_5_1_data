@@ -1,0 +1,62 @@
+{
+  "Name": "Cockatrice",
+  "Tags": [
+    "monstrosity"
+  ],
+  "Source": "",
+  "Type": "Small\tmonstrosity,\tunaligned",
+  "HP": {
+    "Value": 27,
+    "Notes": "(6d6 + 6)"
+  },
+  "AC": {
+    "Value": 11,
+    "Notes": ""
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "20ft", "fly 40ft"
+  ],
+  "Abilities": {
+    "Str": 6,
+    "Dex": 12,
+    "Con": 12,
+    "Int": 2,
+    "Wis": 13,
+    "Cha": 5
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "darkvision 60ft", "passive perception 11"
+  ],
+  "Languages": [
+  ],
+  "Challenge": "1/2 (100 XP)",
+  "Traits": [
+  ],
+  "Actions": [
+    {
+      "Name": "Bite",
+      "Content": "Melee\tWeapon\tAttack: +3\tto\thit,\treach\t5\tft.,\tone\t\ncreature.\tHit: 3\t(1d4\t+\t1)\tpiercing\tdamage,\tand\tthe\t\ntarget\tmust\tsucceed\ton\ta\tDC\t11\tConstitution\tsaving\t\nthrow\tagainst\tbeing\tmagically\tpetrified.\tOn\ta\tfailed\t\nsave,\tthe\tcreature\tbegins\tto\tturn\tto\tstone\tand\tis\t\nrestrained.\tIt\tmust\trepeat\tthe\tsaving\tthrow\tat\tthe\tend\t\nof\tits\tnext\tturn.\tOn\ta\tsuccess,\tthe\teffect\tends.\tOn\ta\t\nfailure,\tthe\tcreature\tis\tpetrified\tfor\t24\thours."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

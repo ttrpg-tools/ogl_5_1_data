@@ -1,0 +1,83 @@
+{
+  "Name": "Chimera",
+  "Tags": [
+    "monstrosity"
+  ],
+  "Source": "",
+  "Type": "Large\tmonstrosity,\tchaotic\tevil",
+  "HP": {
+    "Value": 114,
+    "Notes": "(12d10 + 48)"
+  },
+  "AC": {
+    "Value": 14,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "30ft", "fly 60ft"
+  ],
+  "Abilities": {
+    "Str": 19,
+    "Dex": 11,
+    "Con": 19,
+    "Int": 3,
+    "Wis": 14,
+    "Cha": 10
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+    {
+      "Name": "Perception",
+      "Modifier": 8
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "darkvision 60ft", "passive perception 18"
+  ],
+  "Languages": [
+    "understand draconic but can't speak"
+  ],
+  "Challenge": "6 (2 300 XP)",
+  "Traits": [
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tchimera\tmakes\tthree\tattacks:\tone\t\nwith\tits\tbite,\tone\twith\tits\thorns,\tand\tone\twith\tits\tclaws.\t\nWhen\tits\tfire\tbreath\tis\tavailable,\tit\tcan\tuse\tthe\tbreath\t\nin\tplace\tof\tits\tbite\tor\thorns"
+    },
+    {
+      "Name": "Bite",
+      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 11\t(2d6\t+\t4)\tpiercing\tdamage"
+    },
+    {
+      "Name": "Horns",
+      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 10\t(1d12\t+\t4)\tbludgeoning\tdamage."
+    },
+    {
+      "Name": "Claws",
+      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit:\t11\t(2d6\t+\t4)\tslashing\tdamage."
+    },
+    {
+      "Name": "Fire\tBreath\t(Recharge\t5–6)",
+      "Content": "The\tdragon\thead\texhales\t\nfire\tin\ta\t15-foot\tcone.\tEach\tcreature\tin\tthat\tarea\tmust\t\nmake\ta\tDC\t15\tDexterity\tsaving\tthrow,\ttaking\t31\t(7d8)\t\nfire\tdamage\ton\ta\tfailed\tsave,\tor\thalf\tas\tmuch\tdamage\t\non\ta\tsuccessful\tone."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

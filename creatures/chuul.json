@@ -1,0 +1,83 @@
+{
+  "Name": "Chuul",
+  "Tags": [
+    "aberration"
+  ],
+  "Source": "",
+  "Type": "Large\taberration,\tchaotic\tevil",
+  "HP": {
+    "Value": 93,
+    "Notes": "(11d10 + 33)"
+  },
+  "AC": {
+    "Value": 16,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+  ],
+  "Abilities": {
+    "Str": 19,
+    "Dex": 10,
+    "Con": 16,
+    "Int": 5,
+    "Wis": 11,
+    "Cha": 5
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": ["poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+    {
+      "Name": "perception",
+      "Modifier": 4
+    }
+  ],
+  "Senses": [
+    "darkvision 60ft", "passive perception 14"
+  ],
+  "Languages": [
+    "understands deep speech but can't speak"
+  ],
+  "Challenge": "4 (1 100 XP)",
+  "Traits": [
+    {
+      "Name": "Amphibious",
+      "Content": "The\tchuul\tcan\tbreathe\tair\tand\twater"
+    },
+    {
+      "Name": "Sense\tMagic",
+      "Content": "The\tchuul\tsenses\tmagic\twithin\t120\tfeet\t\nof\tit\tat\twill.\tThis\ttrait\totherwise\tworks\tlike\tthe\tdetect\t\nmagic spell\tbut\tisn’t\titself\tmagical."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tchuul\tmakes\ttwo\tpincer\tattacks.\tIf\tthe\t\nchuul\tis\tgrappling\ta\tcreature,\tthe\tchuul can\talso\tuse\tits\t\ntentacles\tonce."
+    },
+    {
+      "Name": "Pincer",
+      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit: 11\t(2d6\t+\t4)\tbludgeoning\tdamage.\tThe\t\ntarget\tis\tgrappled\t(escape\tDC\t14)\tif\tit\tis\ta\tLarge\tor\t\nsmaller\tcreature\tand\tthe\tchuul\tdoesn’t\thave\ttwo\tother\t\ncreatures\tgrappled."
+    },
+    {
+      "Name": "Tentacles",
+      "Content": "One\tcreature\tgrappled\tby\tthe\tchuul\tmust\t\nsucceed\ton\ta\tDC\t13\tConstitution\tsaving\tthrow\tor\tbe\t\npoisoned\tfor\t1\tminute.\tUntil\tthis\tpoison\tends,\tthe\t\ntarget\tis\tparalyzed.\tThe\ttarget\tcan\trepeat\tthe\tsaving\t\nthrow\tat\tthe\tend\tof\teach\tof\tits\tturns,\tending\tthe\teffect\t\non\titself\ton\ta\tsuccess."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

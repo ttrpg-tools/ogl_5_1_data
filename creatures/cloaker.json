@@ -1,0 +1,95 @@
+{
+  "Name": "Cloaker",
+  "Tags": [
+    "abberation"
+  ],
+  "Source": "",
+  "Type": "Large\taberration,\tchaotic\tneutral",
+  "HP": {
+    "Value": 78,
+    "Notes": "(12d10 + 12)"
+  },
+  "AC": {
+    "Value": 14,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "10ft", "fly 40ft"
+  ],
+  "Abilities": {
+    "Str": 17,
+    "Dex": 15,
+    "Con": 12,
+    "Int": 13,
+    "Wis": 12,
+    "Cha": 14
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+    {
+      "Name": "stealth",
+      "Modifier": 5
+    }
+  ],
+  "Senses": [
+    "darkvision 60ft", "passive perception 11"
+  ],
+  "Languages": [
+    "deep speech", "undercommon"
+  ],
+  "Challenge": "8 (3 900 XP)",
+  "Traits": [
+    {
+      "Name": "Damage\tTransfer",
+      "Content": "While\tattached\tto\ta\tcreature,\tthe\t\ncloaker\ttakes\tonly\thalf\tthe\tdamage\tdealt\tto\tit\t(rounded\t\ndown),\tand\tthat\tcreature\ttakes\tthe\tother\thalf."
+    },
+    {
+      "Name": "False\tAppearance",
+      "Content": "While\tthe\tcloaker\tremains\t\nmotionless\twithout\tits\tunderside\texposed,\tit\tis\t\nindistinguishable\tfrom\ta\tdark\tleather\tcloak."
+    },
+    {
+      "Name": "Light\tSensitivity",
+      "Content": "While\tin\tbright\tlight,\tthe\tcloaker\thas\t\ndisadvantage\ton\tattack\trolls\tand\tWisdom\t(Perception)\t\nchecks\tthat\trely\ton\tsight."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tcloaker\tmakes\ttwo\tattacks:\tone\twith\t\nits\tbite\tand\tone\twith\tits\ttail."
+    },
+    {
+      "Name": "Bite",
+      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t5\tft.,\tone\t\ncreature.\tHit: 10\t(2d6\t+\t3)\tpiercing\tdamage,\tand\tif\tthe\t\ntarget\tis\tLarge or\tsmaller,\tthe\tcloaker\tattaches\tto\tit.\tIf\t\nthe\tcloaker\thas\tadvantage\tagainst\tthe\ttarget,\tthe\t\ncloaker\tattaches\tto\tthe\ttarget’s\thead,\tand\tthe\ttarget\tis\t\nblinded\tand\tunable\tto\tbreathe\twhile\tthe\tcloaker\tis\t\nattached.\tWhile\tattached,\tthe\tcloaker\tcan\tmake\tthis\t\nattack\tonly\tagainst\tthe\ttarget\tand\thas\tadvantage\ton\tthe\t\nattack\troll.\tThe\tcloaker\tcan\tdetach\titself\tby\tspending\t5\t\nfeet\tof\tits\tmovement.\tA\tcreature,\tincluding\tthe\ttarget,\t\ncan\ttake\tits\taction\tto\tdetach\tthe\tcloaker\tby\tsucceeding\t\non\ta\tDC\t16\tStrength\tcheck."
+    },
+    {
+      "Name": "Tail",
+      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t10\tft.,\tone\t\ncreature.\tHit: 7\t(1d8\t+\t3)\tslashing\tdamage."
+    },
+    {
+      "Name": "Moan",
+      "Content": "Each\tcreature\twithin\t60\tfeet\tof\tthe\tcloaker\tthat\t\ncan\thear\tits\tmoan\tand\tthat\tisn’t\tan\taberration\tmust\t\nsucceed\ton\ta\tDC\t13\tWisdom\tsaving\tthrow\tor\tbecome\t\nfrightened\tuntil\tthe\tend\tof\tthe\tcloaker’s\tnext\tturn.\tIf\ta\t\ncreature’s\tsaving\tthrow\tis\tsuccessful,\tthe\tcreature\tis\t\nimmune\tto\tthe\tcloaker’s\tmoan\tfor\tthe\tnext\t24\thours"
+    },
+    {
+      "Name": "Phantasms\t(Recharges\tafter\ta\tShort\tor\tLong\tRest)",
+      "Content": ". The\t\ncloaker\tmagically\tcreates\tthree\tillusory\tduplicates\tof\t\nitself\tif\tit\tisn’t\tin\tbright\tlight.\tThe\tduplicates\tmove\twith\t\nit\tand\tmimic\tits\tactions,\tshifting\tposition\tso\tas\tto\tmake\t\nit\timpossible\tto\ttrack\twhich\tcloaker\tis\tthe\treal\tone.\tIf\t\nthe\tcloaker\tis\tever\tin\tan\tarea\tof\tbright\tlight,\tthe\t\nduplicates\tdisappear.\nWhenever\tany\tcreature\ttargets\tthe\tcloaker\twith\tan\t\nattack\tor\ta\tharmful\tspell\twhile\ta\tduplicate\tremains,\t\nthat\tcreature\trolls\trandomly\tto\tdetermine\twhether\tit\t\ntargets\tthe\tcloaker\tor\tone\tof\tthe\tduplicates.\tA\tcreature\t\nis\tunaffected\tby\tthis\tmagical\teffect\tif\tit\tcan’t\tsee\tor\tif\tit\t\nrelies\ton\tsenses\tother\tthan\tsight.\nA\tduplicate\thas\tthe\tcloaker’s\tAC\tand\tuses\tits\tsaving\t\nthrows.\tIf\tan\tattack\thits\ta\tduplicate,\tor\tif\ta\tduplicate\t\nfails\ta\tsaving\tthrow\tagainst\tan\teffect\tthat\tdeals\tdamage,\t\nthe\tduplicate\tdisappears.\n"
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

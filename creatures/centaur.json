@@ -1,0 +1,91 @@
+{
+  "Name": "Centaur",
+  "Tags": [
+    "monstrosity"
+  ],
+  "Source": "",
+  "Type": "Large\tmonstrosity,\tneutral\tgood",
+  "HP": {
+    "Value": 45,
+    "Notes": "(6d10 + 12)"
+  },
+  "AC": {
+    "Value": 12,
+    "Notes": ""
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "50ft"
+  ],
+  "Abilities": {
+    "Str": 18,
+    "Dex": 14,
+    "Con": 14,
+    "Int": 9,
+    "Wis": 13,
+    "Cha": 11
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+    {
+      "Name": "athletics",
+      "Modifier": 6
+    },
+    {
+      "Name": "perception",
+      "Modifier": 3
+    },
+    {
+      "Name": "survival",
+      "Modifier": 3
+    }
+  ],
+  "Senses": [
+    "passive perception 13"
+  ],
+  "Languages": [
+    "elvish", "sylvan"
+  ],
+  "Challenge": "2 (450 XP)",
+  "Traits": [
+    {
+      "Name": "Charge",
+      "Content": "If\tthe\tcentaur\tmoves\tat\tleast\t30\tfeet\tstraight\t\ntoward\ta\ttarget\tand then\thits\tit\twith\ta\tpike\tattack\ton\t\nthe\tsame\tturn,\tthe\ttarget\ttakes\tan\textra\t10\t(3d6)\t\npiercing\tdamage."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tcentaur\tmakes\ttwo\tattacks:\tone\twith\t\nits\tpike\tand\tone\twith\tits\thooves\tor\ttwo\twith\tits\t\nlongbow."
+    },
+    {
+      "Name": "Pike",
+      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t10\tft.,\tone\t\ntarget.\tHit: 9\t(1d10\t+\t4)\tpiercing\tdamage."
+    },
+    {
+      "Name": "Hooves",
+      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t5\tft.,\t\none\ttarget.\tHit: 11\t(2d6\t+\t4)\tbludgeoning\tdamage."
+    },
+    {
+      "Name": "Longbow",
+      "Content": "Ranged\tWeapon\tAttack: +4\tto\thit,\trange\t\n150/600\tft.,\tone\ttarget.\tHit: 6\t(1d8\t+\t2)\tpiercing\t\ndamage."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

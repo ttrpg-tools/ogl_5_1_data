@@ -1,0 +1,74 @@
+{
+  "Name": "Bulette",
+  "Tags": [
+    "monstrosity"
+  ],
+  "Source": "",
+  "Type": "Large\tmonstrosity,\tunaligned",
+  "HP": {
+    "Value": 94,
+    "Notes": "(9d10 + 45)"
+  },
+  "AC": {
+    "Value": 17,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "40ft", "burrow 40ft"
+  ],
+  "Abilities": {
+    "Str": 19,
+    "Dex": 11,
+    "Con": 21,
+    "Int": 2,
+    "Wis": 10,
+    "Cha": 5
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+    {
+      "Name": "perception",
+      "Modifier": 6
+    }
+  ],
+  "Senses": [
+    "darkvision 60ft", "tremorsense 60ft", "passive perception 16"
+  ],
+  "Languages": [
+  ],
+  "Challenge": "5 (1 800 XP)",
+  "Traits": [
+    {
+      "Name": "Standing\tLeap",
+      "Content": "The\tbulette’s\tlong\tjump\tis\tup\tto\t30\tfeet\t\nand\tits\thigh\tjump\tis\tup to\t15\tfeet,\twith\tor\twithout\ta\t\nrunning\tstart."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Bite",
+      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 30\t(4d12\t+\t4)\tpiercing\tdamage."
+    },
+    {
+      "Name": "Deadly\tLeap",
+      "Content": "If\tthe\tbulette\tjumps\tat\tleast\t15\tfeet\tas\t\npart\tof\tits\tmovement,\tit\tcan\tthen\tuse\tthis\taction\tto\tland\t\non\tits\tfeet\tin\ta\tspace\tthat\tcontains\tone\tor\tmore\tother\t\ncreatures.\tEach\tof\tthose\tcreatures\tmust\tsucceed\ton\ta\t\nDC\t16\tStrength\tor\tDexterity\tsaving\tthrow\t(target’s\t\nchoice)\tor\tbe\tknocked\tprone\tand\ttake\t14\t(3d6\t+\t4)\t\nbludgeoning\tdamage\tplus\t14\t(3d6\t+\t4)\tslashing\t\ndamage.\tOn\ta\tsuccessful\tsave,\tthe\tcreature\ttakes\tonly\t\nhalf\tthe\tdamage,\tisn’t\tknocked\tprone,\tand\tis\tpushed\t5\t\nfeet\tout\tof\tthe\tbulette’s\tspace\tinto\tan\tunoccupied\t\nspace\tof\tthe\tcreature’s\tchoice.\tIf\tno\tunoccupied\tspace\t\nis\twithin\trange,\tthe\tcreature\tinstead\tfalls\tprone\tin\tthe\t\nbulette’s\tspace."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

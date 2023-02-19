@@ -1,0 +1,96 @@
+{
+  "Name": "Couatl",
+  "Tags": [
+    "celestial"
+  ],
+  "Source": "",
+  "Type": "Medium\tcelestial,\tlawful\tgood",
+  "HP": {
+    "Value": 97,
+    "Notes": "(13d8 + 39)"
+  },
+  "AC": {
+    "Value": 19,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "30ft", "fly 90ft"
+  ],
+  "Abilities": {
+    "Str": 16,
+    "Dex": 20,
+    "Con": 17,
+    "Int": 18,
+    "Wis": 20,
+    "Cha": 18
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "radiant"
+  ],
+  "DamageImmunities": ["psychic", "bludgeoning,\tpiercing,\t\nand\tslashing\tfrom\tnonmagical\tattacks"],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+    {
+      "Name": "Con",
+      "Modifier": 5
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 7
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 6
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "truesight 120ft", "passive perception 15"
+  ],
+  "Languages": [
+    "all", "telepathy 120 ft"
+  ],
+  "Challenge": "4 (1 100 XP)",
+  "Traits": [
+    {
+      "Name": "Innate\tSpellcasting",
+      "Content": "The\tcouatl’s\tspellcasting\tability\tis\t\nCharisma\t(spell\tsave\tDC\t14).\tIt\tcan\tinnately\tcast\tthe\t\nfollowing\tspells,\trequiring\tonly\tverbal\tcomponents:\nAt\twill:\tdetect\tevil\tand\tgood,\tdetect\tmagic,\tdetect\t\nthoughts\n3/day\teach:\tbless,\tcreate\tfood\tand\twater,\tcure\twounds,\t\nlesser\trestoration,\tprotection\tfrom\tpoison,\tsanctuary,\t\nshield\n1/day\teach:\tdream,\tgreater\trestoration,\tscrying"
+    },
+    {
+      "Name": "Magic\tWeapons",
+      "Content": "The\tcouatl’s\tweapon\tattacks\tare\t\nmagical."
+    },
+    {
+      "Name": "Shielded\tMind",
+      "Content": "The\tcouatl\tis\timmune\tto\tscrying\tand\tto\t\nany\teffect\tthat\twould\tsense\tits\temotions,\tread\tits\t\nthoughts,\tor\tdetect\tits\tlocation."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Bite",
+      "Content": "Melee\tWeapon\tAttack: +8\tto\thit,\treach\t5\tft.,\tone\t\ncreature.\tHit: 8\t(1d6\t+\t5)\tpiercing\tdamage,\tand\tthe\t\ntarget\tmust\tsucceed\ton\ta\tDC\t13\tConstitution\tsaving\t\nthrow\tor\tbe\tpoisoned\tfor\t24\thours.\tUntil\tthis\tpoison\t\nends,\tthe\ttarget\tis\tunconscious.\tAnother\tcreature\tcan\t\nuse\tan\taction\tto\tshake\tthe\ttarget\tawake."
+    },
+    {
+      "Name": "Constrict",
+      "Content": "\tMelee\tWeapon\tAttack: +6\tto\thit,\treach\t10\tft.,\t\none\tMedium\tor\tsmaller\tcreature.\tHit: 10\t(2d6\t+\t3)\t\nbludgeoning\tdamage,\tand\tthe\ttarget\tis\tgrappled\t\n(escape\tDC\t15).\tUntil\tthis\tgrapple\tends,\tthe\ttarget\tis\t\nrestrained,\tand\tthe\tcouatl\tcan’t\tconstrict\tanother\t\ntarget."
+    },
+    {
+      "Name": "Change\tShape",
+      "Content": "The\tcouatl\tmagically\tpolymorphs\tinto\ta\t\nhumanoid\tor\tbeast\tthat\thas\ta\tchallenge\trating\tequal\tto\t\nor\tless\tthan\tits\town,\tor\tback\tinto\tits\ttrue\tform.\tIt\t\nreverts\tto\tits\ttrue\tform\tif\tit\tdies.\tAny\tequipment\tit\tis\t\nwearing\tor\tcarrying\tis\tabsorbed\tor\tborne\tby\tthe\tnew\t\nform\t(the\tcouatl’s\tchoice).\nIn\ta\tnew\tform,\tthe\tcouatl\tretains\tits\tgame\tstatistics\t\nand\tability\tto\tspeak,\tbut\tits\tAC,\tmovement\tmodes,\t\nStrength,\tDexterity,\tand\tother\tactions\tare\treplaced\tby\t\nthose\tof\tthe\tnew\tform,\tand\tit\tgains\tany\tstatistics\tand\t\ncapabilities\t(except\tclass\tfeatures,\tlegendary\tactions,\t\nand\tlair\tactions)\tthat\tthe\tnew\tform\thas\tbut\tthat\tit\tlacks.\t\nIf\tthe\tnew\tform\thas\ta\tbite\tattack,\tthe\tcouatl\tcan\tuse\tits\t\nbite\tin\tthat\tform."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}
