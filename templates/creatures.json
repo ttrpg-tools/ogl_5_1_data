@@ -1,0 +1,68 @@
+{
+  "Name": "",
+  "Tags": [
+    ""
+  ],
+  "Source": "",
+  "Type": "",
+  "HP": {
+    "Value": 0,
+    "Notes": ""
+  },
+  "AC": {
+    "Value": 0,
+    "Notes": ""
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    ""
+  ],
+  "Abilities": {
+    "Str": 0,
+    "Dex": 0,
+    "Con": 0,
+    "Int": 0,
+    "Wis": 0,
+    "Cha": 0
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    ""
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+    ""
+  ],
+  "Saves": [],
+  "Skills": [
+    {
+      "Name": "",
+      "Modifier": 0
+    }
+  ],
+  "Senses": [
+    ""
+  ],
+  "Languages": [
+    ""
+  ],
+  "Challenge": "",
+  "Traits": [
+    {
+      "Name": "",
+      "Content": ""
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "",
+      "Content": ""
+    }
+  ],
+  "BonusActions": [],
+  "Reactions": [],
+  "LegendaryActions": [],
+  "MythicActions": [],
+  "Description": ""
+}

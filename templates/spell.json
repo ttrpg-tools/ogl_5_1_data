@@ -1,0 +1,17 @@
+{
+  "spellName": "",
+  "spellSchool": "",
+  "spellClasses": [
+    ""
+  ],
+  "spellLevel": 0,
+  "castingTime": "",
+  "spellDuration": "",
+  "spellRange": "",
+  "spellEffect": "",
+  "verbalBool": true,
+  "somaticBool": true,
+  "materialBool": true,
+  "materials": "",
+  "spellSave": ""
+}
