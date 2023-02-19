@@ -34,7 +34,12 @@
   "ConditionImmunities": [
     ""
   ],
-  "Saves": [],
+  "Saves": [
+    {
+      "Name": "",
+      "Modifier": 0
+    }
+  ],
   "Skills": [
     {
       "Name": "",
@@ -60,9 +65,29 @@
       "Content": ""
     }
   ],
-  "BonusActions": [],
-  "Reactions": [],
-  "LegendaryActions": [],
-  "MythicActions": [],
+  "BonusActions": [
+    {
+      "Name": "",
+      "Content": ""
+    }
+  ],
+  "Reactions": [
+    {
+      "Name": "",
+      "Content": ""
+    }
+  ],
+  "LegendaryActions": [
+    {
+      "Name": "",
+      "Content": ""
+    }
+  ],
+  "MythicActions": [
+    {
+      "Name": "",
+      "Content": ""
+    }
+  ],
   "Description": ""
 }

@@ -1,0 +1,104 @@
+{
+  "Name": "Deva",
+  "Tags": [
+    "angel", "celestial"
+  ],
+  "Source": "",
+  "Type": "Medium\tcelestial,\tlawful\tgood",
+  "HP": {
+    "Value": 136,
+    "Notes": "(16d8 + 64)"
+  },
+  "AC": {
+    "Value": 17,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "30 ft", "fly 90ft"
+  ],
+  "Abilities": {
+    "Str": 18,
+    "Dex": 18,
+    "Con": 18,
+    "Int": 17,
+    "Wis": 20,
+    "Cha": 20
+  },
+  "DamageVulnerabilities": [
+  ],
+  "DamageResistances": [
+    "radiant", "bludgeoning, piercing, and slashing from nonmagical attacks"
+  ],
+  "DamageImmunities": ["charmed", "exhaustion", "frightened"],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+    {
+      "Name": "Wis",
+      "Modifier": 9
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 9
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "Insight",
+      "Modifier": 9
+    },
+    {
+      "Name": "Perception",
+      "Modifier": 9
+    }
+  ],
+  "Senses": [
+  ],
+  "Languages": [
+    "all", "telepathy 120ft"
+  ],
+  "Challenge": "10 (5 900 XP)",
+  "Traits": [
+    {
+      "Name": "Angelic\tWeapons",
+      "Content": ". The\tdeva’s\tweapon\tattacks\tare\t\nmagical.\tWhen\tthe\tdeva\thits\twith\tany\tweapon,\tthe\nweapon\tdeals\tan\textra\t4d8\tradiant\tdamage\t(included\tin\t\nthe\tattack)."
+    },
+    {
+      "Name": "Innate\tSpellcasting",
+      "Content": "The\tdeva’s\tspellcasting\tability\tis\t\nCharisma\t(spell\tsave\tDC\t17).\tThe\tdeva\tcan\tinnately\tcast\t\nthe\tfollowing\tspells,\trequiring\tonly\tverbal\tcomponents:\nAt\twill:\tdetect\tevil and\tgood\n1/day\teach:\tcommune,\traise\tdead"
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tdeva\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tdeva\tmakes\ttwo\tmelee\tattacks."
+    },
+    {
+      "Name": "Mace",
+      "Content": "Melee\tWeapon\tAttack: +8\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 7\t(1d6\t+\t4)\tbludgeoning\tdamage\tplus\t18\t\n(4d8)\tradiant\tdamage."
+    },
+    {
+      "Name": "Healing\tTouch\t(3/Day)",
+      "Content": "The\tdeva\ttouches\tanother\t\ncreature.\tThe\ttarget\tmagically\tregains\t20\t(4d8\t+\t2)\thit\t\npoints\tand\tis\tfreed\tfrom\tany\tcurse,\tdisease,\tpoison,\t\nblindness,\tor\tdeafness"
+    },
+    {
+      "Name": "Change\tShape",
+      "Content": "The\tdeva\tmagically\tpolymorphs\tinto\ta\t\nhumanoid\tor\tbeast\tthat\thas\ta\tchallenge\trating\tequal\tto\t\nor\tless\tthan\tits\town,\tor\tback\tinto\tits\ttrue\tform.\tIt\t\nreverts\tto\tits\ttrue\tform\tif\tit\tdies.\tAny\tequipment\tit\tis\t\nwearing\tor\tcarrying\tis\tabsorbed\tor\tborne\tby\tthe\tnew\t\nform\t(the\tdeva’s\tchoice).\nIn\ta\tnew\tform,\tthe\tdeva\tretains\tits\tgame\tstatistics\t\nand\tability\tto\tspeak,\tbut\tits\tAC,\tmovement\tmodes,\t\nStrength,\tDexterity,\tand\tspecial\tsenses\tare\treplaced\tby\t\nthose\tof\tthe\tnew\tform,\tand\tit\tgains\tany\tstatistics\tand\t\ncapabilities\t(except\tclass\tfeatures,\tlegendary\tactions,\t\nand\tlair\tactions)\tthat\tthe\tnew\tform\thas\tbut\tthat\tit\tlacks."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

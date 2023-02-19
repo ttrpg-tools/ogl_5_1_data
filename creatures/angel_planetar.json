@@ -1,0 +1,105 @@
+{
+  "Name": "Planetar",
+  "Tags": [
+    "angel", "celestial"
+  ],
+  "Source": "",
+  "Type": "Large\tcelestial,\tlawful\tgood\t\n",
+  "HP": {
+    "Value": 200,
+    "Notes": "(16d10 + 112)"
+  },
+  "AC": {
+    "Value": 19,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "40 ft", "fly 120ft"
+  ],
+  "Abilities": {
+    "Str": 24,
+    "Dex": 20,
+    "Con": 24,
+    "Int": 19,
+    "Wis": 22,
+    "Cha": 25
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "radiant", "bludgeoning,\tpiercing,\t\nand\tslashing\tfrom\tnonmagical\tattacks"
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+    "charmed", "exhaustion", "frightened"
+  ],
+  "Saves": [
+    {
+      "Name": "Con",
+      "Modifier": 12
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 12
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 12
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "Perception",
+      "Modifier": 11
+    }
+  ],
+  "Senses": [
+    "truesight 120ft", "passive perception 21"
+  ],
+  "Languages": [
+    "all", "telepathy 102ft"
+  ],
+  "Challenge": "16 (15 000 XP)",
+  "Traits": [
+    {
+      "Name": "Angelic\tWeapons",
+      "Content": "The\tplanetar’s\tweapon\tattacks\tare\t\nmagical.\tWhen\tthe\tplanetar\thits\twith\tany\tweapon,\tthe\t\nweapon\tdeals\tan\textra\t5d8\tradiant\tdamage\t(included\tin\t\nthe\tattack)."
+    },
+    {
+      "Name": "Divine\tAwareness",
+      "Content": "The\tplanetar\tknows\tif\tit\thears\ta\tlie."
+    },
+    {
+      "Name": "Innate\tSpellcasting",
+      "Content": "The\tplanetar’s\tspellcasting\tability\t\nis\tCharisma\t(spell\tsave\tDC\t20).\tThe\tplanetar\tcan\t\ninnately\tcast\tthe\tfollowing\tspells,\trequiring\tno\tmaterial\t\ncomponents:\nAt will:\tdetect\tevil\tand\tgood,\tinvisibility\t(self\tonly)\n3/day\teach:\tblade\tbarrier,\tdispel\tevil\tand\tgood,\tflame\t\nstrike,\traise\tdead\n1/day\teach:\tcommune,\tcontrol\tweather,\tinsect\tplague"
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tplanetar\thas\tadvantage\ton\t\nsaving\tthrows\tagainst\tspells and\tother\tmagical\teffects."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tplanetar\tmakes\ttwo\tmelee\tattacks"
+    },
+    {
+      "Name": "Greatsword",
+      "Content": "Melee\tWeapon\tAttack: +12\tto\thit,\treach\t5\t\nft.,\tone\ttarget.\tHit: 21\t(4d6\t+\t7)\tslashing\tdamage\tplus\t\n22\t(5d8)\tradiant\tdamage."
+    },
+    {
+      "Name": "Healing\tTouch\t(4/Day)",
+      "Content": "The\tplanetar touches\tanother\t\ncreature.\tThe\ttarget\tmagically\tregains\t30\t(6d8\t+\t3)\thit\t\npoints\tand\tis\tfreed\tfrom\tany\tcurse,\tdisease,\tpoison,\t\nblindness,\tor\tdeafness."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

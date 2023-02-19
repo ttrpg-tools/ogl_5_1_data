@@ -1,0 +1,119 @@
+{
+  "Name": "Aboleth",
+  "Tags": [
+    "aberration"
+  ],
+  "Source": "",
+  "Type": "Large taberration, lawful evil",
+  "HP": {
+    "Value": 135,
+    "Notes": "(18d10 + 36)"
+  },
+  "AC": {
+    "Value": 17,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "10 ft",
+    "swim 40 ft"
+  ],
+  "Abilities": {
+    "Str": 21,
+    "Dex": 9,
+    "Con": 15,
+    "Int": 18,
+    "Wis": 15,
+    "Cha": 18
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+    {
+      "Name": "Con",
+      "Modifier": 6
+    },
+    {
+      "Name": "Int",
+      "Modifier": 8
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 6
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "History",
+      "Modifier": 12
+    },
+    {
+      "Name": "Perception",
+      "Modifier": 10
+    }
+  ],
+  "Senses": [
+    "darkvision 120ft",
+    "passive perception 20"
+  ],
+  "Languages": [
+    "Deep speech",
+    "telepathy 120 ft"
+  ],
+  "Challenge": "10 (5 900 XP)",
+  "Traits": [
+    {
+      "Name": "Amphibious",
+      "Content": "The\taboleth\tcan\tbreathe\tair\tand\twater."
+    },
+    {
+      "Name": "Mucous\tCloud",
+      "Content": "While\tunderwater,\tthe\taboleth\tis\t\nsurrounded\tby\ttransformative\tmucus.\tA\tcreature\tthat\t\ntouches\tthe\taboleth\tor\tthat\thits\tit\twith\ta\tmelee\tattack\t\nwhile\twithin\t5\tfeet\tof\tit\tmust\tmake\ta\tDC\t14\t\nConstitution\tsaving\tthrow.\tOn\ta\tfailure,\tthe\tcreature\tis\t\ndiseased\tfor\t1d4\thours.\tThe\tdiseased\tcreature\tcan\t\nbreathe\tonly\tunderwater."
+    },
+    {
+      "Name": "Probing\tTelepathy",
+      "Content": ". If\ta\tcreature\tcommunicates\t\ntelepathically\twith\tthe\taboleth,\tthe\taboleth\tlearns\tthe\t\ncreature’s\tgreatest\tdesires\tif\tthe\taboleth\tcan\tsee\tthe\t\ncreature.\n"
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\taboleth\tmakes\tthree\ttentacle\tattacks"
+    },
+    {
+      "Name": "Tentacle",
+      "Content": "\tMelee\tWeapon\tAttack: +9\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit: 12\t(2d6\t+\t5)\tbludgeoning\tdamage.\tIf\t\nthe\ttarget\tis\ta\tcreature,\tit\tmust\tsucceed\ton\ta\tDC\t14\t\nConstitution\tsaving\tthrow\tor\tbecome\tdiseased.\tThe\t\ndisease\thas\tno\teffect\tfor\t1\tminute\tand\tcan\tbe\tremoved\t\nby\tany\tmagic\tthat\tcures\tdisease.\tAfter\t1\tminute,\tthe\t\ndiseased\tcreature’s\tskin\tbecomes\ttranslucent\tand\tslimy,\t\nthe\tcreature\tcan’t\tregain\thit\tpoints\tunless\tit\tis\t\nunderwater,\tand\tthe\tdisease\tcan\tbe\tremoved\tonly\tby\t\nheal\tor\tanother\tdisease-curing\tspell\tof\t6th\tlevel\tor\t\nhigher.\tWhen\tthe\tcreature\tis\toutside\ta\tbody\tof\twater,\tit\ntakes\t6\t(1d12)\tacid\tdamage\tevery\t10\tminutes\tunless\t\nmoisture\tis\tapplied\tto\tthe\tskin\tbefore\t10\tminutes\thave\t\npassed."
+    },
+    {
+      "Name": "Tail",
+      "Content": "Melee\tWeapon\tAttack: +9\tto\thit,\treach\t10\tft.\tone\t\ntarget.\tHit: 15\t(3d6\t+\t5)\tbludgeoning\tdamage."
+    },
+    {
+      "Name": "Enslave\t(3/Day)",
+      "Content": "The\taboleth\ttargets\tone creature\tit\t\ncan\tsee\twithin\t30\tfeet\tof\tit.\tThe\ttarget\tmust\tsucceed\ton\t\na\tDC\t14\tWisdom\tsaving\tthrow\tor\tbe\tmagically\tcharmed\t\nby\tthe\taboleth\tuntil\tthe\taboleth\tdies\tor\tuntil\tit\tis\ton\ta\t\ndifferent\tplane\tof\texistence\tfrom\tthe\ttarget.\tThe\t\ncharmed\ttarget\tis\tunder\tthe\taboleth’s\tcontrol\tand\tcan’t\t\ntake\treactions,\tand\tthe\taboleth\tand\tthe\ttarget\tcan\t\ncommunicate\ttelepathically\twith\teach\tother\tover\tany\t\ndistance.\nWhenever\tthe\tcharmed\ttarget\ttakes\tdamage,\tthe\t\ntarget\tcan\trepeat\tthe\tsaving\tthrow.\tOn\ta\tsuccess,\tthe\t\neffect\tends. No\tmore\tthan\tonce\tevery\t24\thours,\tthe\t\ntarget\tcan\talso\trepeat\tthe\tsaving\tthrow\twhen\tit\tis\tat\t\nleast\t1\tmile\taway\tfrom\tthe\taboleth."
+    }
+  ],
+  "BonusActions": [],
+  "Reactions": [],
+  "LegendaryActions": [
+    {
+      "Name": "Detect",
+      "Content": "The\taboleth\tmakes\ta\tWisdom\t(Perception)\t\ncheck."
+    },
+    {
+      "Name": "Tail\tSwipe",
+      "Content": "The\taboleth\tmakes\tone\ttail\tattack."
+    },
+    {
+      "Name": "Psychic\tDrain\t(Costs\t2\tActions)",
+      "Content": "One\tcreature\tcharmed\t\nby\tthe\taboleth\ttakes\t10\t(3d6)\tpsychic\tdamage,\tand\t\nthe\taboleth\tregains\thit\tpoints\tequal\tto\tthe\tdamage\t\nthe\tcreature\ttakes."
+    }
+  ],
+  "MythicActions": [],
+  "Description": ""
+}

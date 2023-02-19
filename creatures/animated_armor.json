@@ -1,0 +1,75 @@
+{
+  "Name": "Animated armor",
+  "Tags": [
+    "animated object", "construct"
+  ],
+  "Source": "",
+  "Type": "Medium\tconstruct,\tunaligned",
+  "HP": {
+    "Value": 33,
+    "Notes": "(6d8 + 6)"
+  },
+  "AC": {
+    "Value": 18,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "25ft"
+  ],
+  "Abilities": {
+    "Str": 14,
+    "Dex": 11,
+    "Con": 13,
+    "Int": 1,
+    "Wis": 3,
+    "Cha": 1
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": ["poison", "psychic"],
+  "ConditionImmunities": [
+    "blinded", "charmed", "deafned", "exhaustion", "frightened", "paralyzed", "petrified", "poisoned"
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "blindsight 60ft (blind beyond)", "passive perception 6"
+  ],
+  "Languages": [
+  ],
+  "Challenge": "1 (200 XP)",
+  "Traits": [
+    {
+      "Name": "Antimagic\tSusceptibility",
+      "Content": "The\tarmor\tis\tincapacitated\t\nwhile\tin\tthe\tarea\tof\tan\tantimagic\tfield. If\ttargeted\tby\t\ndispel\tmagic,\tthe\tarmor\tmust\tsucceed\ton\ta\t\nNot\tfor\tresale.\tPermission\tgranted\tto\tprint\tor\tphotocopy\tthis\tdocument\tfor\tpersonal\tuse\tonly. System\tReference\tDocument\t5.1 264\nConstitution\tsaving\tthrow\tagainst\tthe\tcaster’s\tspell\t\nsave\tDC\tor\tfall\tunconscious\tfor\t1\tminute."
+    },
+    {
+      "Name": "False\tAppearance",
+      "Content": "While\tthe\tarmor\tremains\t\nmotionless,\tit\tis\tindistinguishable\tfrom\ta\tnormal\tsuit\tof\t\narmor."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tarmor\tmakes\ttwo\tmelee\tattacks."
+    },
+    {
+      "Name": "Slam",
+      "Content": "Melee\tWeapon\tAttack: +4\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 5\t(1d6\t+\t2)\tbludgeoning\tdamage."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

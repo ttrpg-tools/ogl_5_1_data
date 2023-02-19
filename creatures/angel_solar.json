@@ -1,0 +1,125 @@
+{
+  "Name": "Solar",
+  "Tags": [
+    "angel", "celestial"
+  ],
+  "Source": "",
+  "Type": "Large\tcelestial,\tlawful\tgood",
+  "HP": {
+    "Value": 243,
+    "Notes": "(18d10 + 144)"
+  },
+  "AC": {
+    "Value": 21,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "50 ft", "fly 150ft"
+  ],
+  "Abilities": {
+    "Str": 26,
+    "Dex": 22,
+    "Con": 26,
+    "Int": 25,
+    "Wis": 25,
+    "Cha": 30
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "radiant", "bludgeoning,\tpiercing,\t\nand\tslashing\tfrom\tnonmagical\tattacks"
+  ],
+  "DamageImmunities": ["necrotic", "poison"],
+  "ConditionImmunities": [
+    "charmed", "exhaustion", "frightened", "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Int",
+      "Modifier": 14
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 14
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 17
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "Perception",
+      "Modifier": 14
+    }
+  ],
+  "Senses": [
+    "truesight 120ft", "passive perception 24"
+  ],
+  "Languages": [
+    "all", "telepathy 120ft"
+  ],
+  "Challenge": "21 (33 000 XP)",
+  "Traits": [
+    {
+      "Name": "Angelic\tWeapons",
+      "Content": "The\tsolar’s\tweapon\tattacks\tare\t\nmagical.\tWhen\tthe\tsolar\thits\twith\tany\tweapon,\tthe\t\nweapon\tdeals\tan\textra\t6d8\tradiant\tdamage\t(included\tin\t\nthe\tattack)."
+    },
+    {
+      "Name": "Divine\tAwareness",
+      "Content": "The\tsolar\tknows\tif\tit\thears\ta\tlie."
+    },
+    {
+      "Name": "Innate\tSpellcasting",
+      "Content": "The\tsolar’s\tspellcasting\tability\tis\t\nCharisma\t(spell\tsave\tDC\t25).\tIt\tcan\tinnately\tcast\tthe\t\nfollowing\tspells,\trequiring\tno\tmaterial\tcomponents:\nAt\twill:\tdetect\tevil\tand\tgood,\tinvisibility\t(self\tonly)\n3/day\teach:\tblade\tbarrier,\tdispel\tevil\tand\tgood,\t\nresurrection\n1/day\teach:\tcommune,\tcontrol\tweather"
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tsolar\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tsolar\tmakes\ttwo\tgreatsword\tattacks."
+    },
+    {
+      "Name": "Greatsword",
+      "Content": "Melee\tWeapon\tAttack: +15\tto\thit,\treach\t5\t\nft.,\tone\ttarget.\tHit: 22\t(4d6\t+\t8)\tslashing\tdamage\tplus\t\n27\t(6d8)\tradiant\tdamage."
+    },
+    {
+      "Name": "Slaying\tLongbow",
+      "Content": "Ranged\tWeapon\tAttack: +13\tto\thit,\t\nrange\t150/600\tft.,\tone\ttarget.\tHit: 15\t(2d8\t+\t6)\tpiercing\t\ndamage\tplus\t27\t(6d8)\tradiant\tdamage.\tIf\tthe\ttarget\tis\ta\t\ncreature\tthat\thas\t100\thit\tpoints\tor\tfewer,\tit\tmust\t\nsucceed\ton\ta\tDC\t15\tConstitution\tsaving\tthrow\tor\tdie"
+    },
+    {
+      "Name": "Flying\tSword",
+      "Content": "The\tsolar\treleases\tits\tgreatsword\tto\t\nhover\tmagically\tin\tan\tunoccupied\tspace\twithin\t5\tfeet\tof\t\nit.\tIf\tthe\tsolar\tcan\tsee\tthe\tsword,\tthe\tsolar\tcan\tmentally\t\ncommand\tit\tas\ta\tbonus\taction\tto\tfly\tup\tto\t50\tfeet\tand\t\neither\tmake\tone attack\tagainst\ta\ttarget\tor\treturn\tto\tthe\t\nsolar’s\thands.\tIf\tthe\thovering\tsword\tis\ttargeted\tby\tany\t\neffect,\tthe\tsolar\tis\tconsidered\tto\tbe\tholding\tit.\tThe\t\nhovering\tsword\tfalls\tif\tthe\tsolar\tdies."
+    },
+    {
+      "Name": "Healing\tTouch\t(4/Day)",
+      "Content": "The\tsolar\ttouches\tanother\t\ncreature.\tThe\ttarget\tmagically\tregains\t40\t(8d8\t+\t4)\thit\t\npoints\tand\tis\tfreed\tfrom\tany\tcurse,\tdisease,\tpoison,\t\nblindness,\tor\tdeafness."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+    {
+      "Name": "Teleport",
+      "Content": "The\tsolar\tmagically\tteleports,\talong\twith\tany\t\nequipment\tit\tis\twearing\tor\tcarrying,\tup\tto\t120\tfeet\tto\t\nan\tunoccupied\tspace\tit\tcan\tsee."
+    },
+    {
+      "Name": "Searing\tBurst\t(Costs\t2\tActions)",
+      "Content": "The\tsolar\temits\t\nmagical,\tdivine\tenergy.\tEach\tcreature\tof\tits\tchoice\tin\t\na\t10-foot\tradius\tmust\tmake\ta\tDC\t23\tDexterity\tsaving\t\nthrow,\ttaking\t14\t(4d6)\tfire\tdamage\tplus\t14\t(4d6)\t\nradiant\tdamage\ton\ta\tfailed\tsave,\tor\thalf\tas\tmuch\t\ndamage\ton\ta\tsuccessful\tone."
+    },
+    {
+      "Name": "Blinding\tGaze\t(Costs\t3\tActions)",
+      "Content": "The\tsolar\ttargets\tone\t\ncreature\tit\tcan\tsee\twithin\t30\tfeet\tof\tit.\tIf\tthe\ttarget\t\ncan\tsee\tit,\tthe\ttarget\tmust\tsucceed\ton\ta\tDC\t15\t\nConstitution\tsaving throw\tor\tbe\tblinded\tuntil\tmagic\t\nsuch\tas\tthe\tlesser\trestoration spell\tremoves\tthe\t\nblindness."
+    }
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}
