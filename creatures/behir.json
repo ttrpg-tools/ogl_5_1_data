@@ -1,0 +1,87 @@
+{
+  "Name": "Behir",
+  "Tags": [
+    "montrosity"
+  ],
+  "Source": "",
+  "Type": "Huge\tmonstrosity,\tneutral\tevil\t",
+  "HP": {
+    "Value": 168,
+    "Notes": "(16d12 + 64)"
+  },
+  "AC": {
+    "Value": 17,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "50ft", "climb 40ft"
+  ],
+  "Abilities": {
+    "Str": 23,
+    "Dex": 16,
+    "Con": 18,
+    "Int": 7,
+    "Wis": 14,
+    "Cha": 12
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+    {
+      "Name": "perception",
+      "Modifier": 6
+    },
+    {
+      "Name": "stealth",
+      "Modifier": 7
+    }
+  ],
+  "Senses": [
+    "darkvision 90ft", "passive perception 16"
+  ],
+  "Languages": [
+    "draconic"
+  ],
+  "Challenge": "11 (7 200 XP)",
+  "Traits": [
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tbehir\tmakes\ttwo\tattacks:\tone\twith\tits\t\nbite\tand\tone\tto\tconstrict."
+    },
+    {
+      "Name": "Bite",
+      "Content": "Melee\tWeapon\tAttack: +10\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit: 22\t(3d10\t+\t6)\tpiercing\tdamage."
+    },
+    {
+      "Name": "Constrict",
+      "Content": "Melee\tWeapon\tAttack: +10\tto\thit,\treach\t5\tft.,\t\none\tLarge\tor\tsmaller\tcreature.\tHit: 17\t(2d10\t+\t6)\t\nbludgeoning\tdamage\tplus\t17\t(2d10\t+\t6)\tslashing\t\ndamage.\tThe\ttarget\tis\tgrappled\t(escape\tDC\t16)\tif\tthe\t\nbehir\tisn’t\talready\tconstricting\ta\tcreature,\tand\tthe\t\ntarget\tis\trestrained\tuntil\tthis\tgrapple\tends."
+    },
+    {
+      "Name": "Lightning\tBreath\t(Recharge\t5–6)",
+      "Content": "The\tbehir\texhales\ta\t\nline\tof\tlightning\tthat\tis\t20\tfeet\tlong\tand\t5\tfeet\twide.\t\nEach\tcreature\tin\tthat\tline\tmust\tmake\ta\tDC\t16\tDexterity\t\nsaving\tthrow,\ttaking\t66\t(12d10)\tlightning\tdamage\ton\ta\t\nfailed\tsave,\tor\thalf\tas\tmuch\tdamage\ton\ta\tsuccessful\tone."
+    },
+    {
+      "Name": "Swallow",
+      "Content": "The\tbehir\tmakes\tone\tbite\tattack\tagainst\ta\t\nMedium\tor\tsmaller\ttarget\tit\tis\tgrappling.\tIf\tthe\tattack\t\nhits,\tthe\ttarget\tis\talso\tswallowed,\tand\tthe\tgrapple\tends.\t\nWhile\tswallowed,\tthe\ttarget\tis\tblinded\tand\trestrained,\t\nit\thas\ttotal\tcover\tagainst\tattacks\tand\tother\teffects\t\noutside\tthe\tbehir,\tand\tit\ttakes\t21\t(6d6)\tacid\tdamage\tat\t\nthe\tstart\tof\teach\tof\tthe\tbehir’s\tturns.\tA\tbehir\tcan\thave\t\nonly\tone\tcreature\tswallowed\tat\ta\ttime.\nIf\tthe\tbehir\ttakes\t30\tdamage\tor\tmore\ton\ta\tsingle\tturn\t\nfrom\tthe\tswallowed\tcreature,\tthe\tbehir\tmust\tsucceed\t\non\ta\tDC\t14\tConstitution\tsaving\tthrow\tat\tthe\tend\tof\tthat\t\nturn\tor\tregurgitate\tthe\tcreature,\twhich\tfalls\tprone\tin\ta\t\nspace\twithin\t10\tfeet\tof\tthe\tbehir. If\tthe\tbehir\tdies,\ta\t\nswallowed\tcreature\tis\tno\tlonger\trestrained\tby\tit\tand\tcan\t\nescape\tfrom\tthe\tcorpse\tby\tusing\t15\tfeet\tof\tmovement,\t\nexiting\tprone."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

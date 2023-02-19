@@ -1,0 +1,83 @@
+{
+  "Name": "Bugbear",
+  "Tags": [
+    "humanoid", "goblinoid"
+  ],
+  "Source": "",
+  "Type": "Medium\thumanoid\t(goblinoid),\tchaotic\tevil",
+  "HP": {
+    "Value": 27,
+    "Notes": "(5d8 + 5)"
+  },
+  "AC": {
+    "Value": 16,
+    "Notes": "(hide armor, shield)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "30ft"
+  ],
+  "Abilities": {
+    "Str": 15,
+    "Dex": 14,
+    "Con": 13,
+    "Int": 8,
+    "Wis": 11,
+    "Cha": 9
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+    {
+      "Name": "Stealth",
+      "Modifier": 6
+    },
+    {
+      "Name": "Survival",
+      "Modifier": 2
+    }
+  ],
+  "Senses": [
+    "darkvision 60ft", "passive perception 10"
+  ],
+  "Languages": [
+    "common", "goblin"
+  ],
+  "Challenge": "1 (200 XP)",
+  "Traits": [
+    {
+      "Name": "Brute",
+      "Content": "A\tmelee\tweapon\tdeals\tone\textra\tdie\tof\tits\tdamage\t\nwhen\tthe\tbugbear\thits\twith\tit\t(included\tin\tthe\tattack)."
+    },
+    {
+      "Name": "Surprise\tAttack",
+      "Content": ". If\tthe\tbugbear\tsurprises\ta\tcreature\tand\t\nhits\tit\twith\tan\tattack\tduring\tthe\tfirst round\tof\tcombat,\t\nthe\ttarget\ttakes\tan\textra\t7\t(2d6)\tdamage\tfrom\tthe\t\nattack."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Morningstar",
+      "Content": "Melee\tWeapon\tAttack: +4\tto\thit,\treach\t5\t\nft.,\tone\ttarget.\tHit: 11\t(2d8\t+\t2)\tpiercing\tdamage"
+    },
+    {
+      "Name": "Javelin",
+      "Content": "Melee\tor\tRanged\tWeapon\tAttack: +4\tto\thit,\t\nreach\t5\tft.\tor\trange\t30/120\tft.,\tone\ttarget.\tHit: 9\t(2d6\t+\t\n2)\tpiercing\tdamage\tin\tmelee\tor\t5\t(1d6\t+\t2)\tpiercing\t\ndamage\tat\trange."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

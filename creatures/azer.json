@@ -1,0 +1,84 @@
+{
+  "Name": "Azer",
+  "Tags": [
+    "elemental"
+  ],
+  "Source": "",
+  "Type": "Medium\telemental,\tlawful\tneutral",
+  "HP": {
+    "Value": 39,
+    "Notes": "(6d8 + 12)"
+  },
+  "AC": {
+    "Value": 17,
+    "Notes": "(natural armor, shield)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "30ft"
+  ],
+  "Abilities": {
+    "Str": 17,
+    "Dex": 12,
+    "Con": 15,
+    "Int": 12,
+    "Wis": 13,
+    "Cha": 10
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": ["fire", "poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Con",
+      "Modifier": 4
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "",
+      "Modifier": 0
+    }
+  ],
+  "Senses": [
+    "passive perception 11"
+  ],
+  "Languages": [
+    "ignan"
+  ],
+  "Challenge": "2 (450 XP)",
+  "Traits": [
+    {
+      "Name": "Heated\tBody",
+      "Content": "A\tcreature\tthat\ttouches\tthe\tazer\tor\thits\tit\t\nwith\ta\tmelee\tattack\twhile\twithin\t5\tfeet\tof\tit\ttakes\t5\t\n(1d10)\tfire\tdamage."
+    },
+    {
+      "Name": "Heated\tWeapons",
+      "Content": "When\tthe\tazer\thits\twith\ta\tmetal\t\nmelee\tweapon,\tit\tdeals\tan\textra\t3\t(1d6)\tfire\tdamage\t\n(included\tin\tthe\tattack)."
+    },
+    {
+      "Name": "Illumination",
+      "Content": "The\tazer\tsheds\tbright\tlight\tin\ta\t10-foot\t\nradius\tand\tdim\tlight\tfor\tan\tadditional\t10\tfeet."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Warhammer",
+      "Content": "\tMelee\tWeapon\tAttack: +5\tto\thit,\treach\t5\t\nft.,\tone\ttarget.\tHit: 7\t(1d8\t+\t3)\tbludgeoning\tdamage,\tor\t\n8\t(1d10\t+\t3)\tbludgeoning\tdamage\tif\tused\twith\ttwo\t\nhands\tto\tmake\ta\tmelee\tattack,\tplus\t3\t(1d6)\tfire\tdamage."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

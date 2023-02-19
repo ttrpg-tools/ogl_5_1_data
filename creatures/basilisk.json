@@ -1,0 +1,66 @@
+{
+  "Name": "Basilisk",
+  "Tags": [
+    "monstrosity"
+  ],
+  "Source": "",
+  "Type": "Medium\tmonstrosity,\tunaligned",
+  "HP": {
+    "Value": 52,
+    "Notes": "(8d8 + 16)"
+  },
+  "AC": {
+    "Value": 15,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "20ft"
+  ],
+  "Abilities": {
+    "Str": 16,
+    "Dex": 8,
+    "Con": 15,
+    "Int": 2,
+    "Wis": 8,
+    "Cha": 7
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "darkvision 60ft", "passive perception 9"
+  ],
+  "Languages": [
+  ],
+  "Challenge": "3 (700 XP)",
+  "Traits": [
+    {
+      "Name": "Petrifying\tGaze",
+      "Content": "If\ta\tcreature\tstarts\tits\tturn\twithin\t30\t\nfeet\tof\tthe\tbasilisk\tand\tthe\ttwo\tof\tthem\tcan\tsee\teach\t\nother,\tthe\tbasilisk\tcan\tforce\tthe\tcreature\tto\tmake\ta\tDC\t\n12\tConstitution\tsaving\tthrow\tif\tthe\tbasilisk\tisn’t\t\nincapacitated.\tOn\ta\tfailed\tsave,\tthe\tcreature\tmagically\t\nbegins\tto\tturn\tto\tstone\tand\tis\trestrained.\tIt\tmust\trepeat\t\nthe\tsaving\tthrow\tat\tthe\tend\tof\tits\tnext\tturn.\tOn\ta\t\nsuccess,\tthe\teffect\tends.\tOn\ta\tfailure,\tthe\tcreature\tis\t\npetrified\tuntil\tfreed\tby\tthe\tgreater\trestoration spell\tor\t\nother\tmagic.\nA\tcreature\tthat\tisn’t\tsurprised\tcan\tavert\tits\teyes\tto\t\navoid\tthe\tsaving\tthrow\tat\tthe\tstart\tof\tits\tturn.\tIf\tit\tdoes\t\nso,\tit\tcan’t\tsee\tthe\tbasilisk\tuntil\tthe\tstart\tof\tits\tnext\tturn,\t\nwhen\tit\tcan\tavert\tits\teyes\tagain.\tIf\tit\tlooks\tat\tthe\t\nbasilisk in\tthe\tmeantime,\tit\tmust\timmediately\tmake\tthe\t\nsave.\nIf\tthe\tbasilisk\tsees\tits\treflection\twithin\t30\tfeet\tof\tit\tin\t\nbright\tlight,\tit\tmistakes\titself\tfor\ta\trival\tand\ttargets\t\nitself\twith\tits\tgaze."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Bite",
+      "Content": "Melee\tWeapon\tAttack: +5\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 10\t(2d6\t+\t3)\tpiercing\tdamage\tplus\t7\t(2d6)\t\npoison\tdamage"
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

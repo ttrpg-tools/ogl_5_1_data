@@ -1,0 +1,75 @@
+{
+  "Name": "Flying sword",
+  "Tags": [
+    "animated object", "construct"
+  ],
+  "Source": "",
+  "Type": "Small\tconstruct,\tunaligned",
+  "HP": {
+    "Value": 17,
+    "Notes": "(5d6)"
+  },
+  "AC": {
+    "Value": 17,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "0ft", "fly 50ft (hover)"
+  ],
+  "Abilities": {
+    "Str": 12,
+    "Dex": 15,
+    "Con": 11,
+    "Int": 1,
+    "Wis": 5,
+    "Cha": 3
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": ["poison", "psychic"],
+  "ConditionImmunities": [
+    "blinded", "charmed", "deafned", "frightened", "paralyzed", "petrified", "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Dex",
+      "Modifier": 4
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "blindsight 60ft (blind beyond)", "passive perception 7"
+  ],
+  "Languages": [
+  ],
+  "Challenge": "1/4 (50 XP)",
+  "Traits": [
+    {
+      "Name": "Antimagic\tSusceptibility",
+      "Content": "The\tsword\tis\tincapacitated\t\nwhile\tin\tthe\tarea\tof\tan\tantimagic\tfield. If\ttargeted\tby\t\ndispel\tmagic,\tthe\tsword\tmust\tsucceed\ton\ta\t\nConstitution\tsaving\tthrow\tagainst\tthe\tcaster’s\tspell\t\nsave\tDC\tor\tfall\tunconscious\tfor\t1\tminute."
+    },
+    {
+      "Name": "False\tAppearance",
+      "Content": "While\tthe\tsword\tremains\t\nmotionless\tand\tisn’t\tflying,\tit\tis\tindistinguishable\tfrom\ta\t\nnormal\tsword."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Longsword",
+      "Content": "Melee\tWeapon\tAttack: +3\tto\thit,\treach\t5\tft.,\t\none\ttarget.\tHit: 5\t(1d8\t+\t1)\tslashing\tdamage."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

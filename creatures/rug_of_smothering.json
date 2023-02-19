@@ -1,0 +1,75 @@
+{
+  "Name": "Rug of Smothering",
+  "Tags": [
+    "animated object", "construct"
+  ],
+  "Source": "",
+  "Type": "Large\tconstruct,\tunaligned",
+  "HP": {
+    "Value": 33,
+    "Notes": "(6d10)"
+  },
+  "AC": {
+    "Value": 12,
+    "Notes": ""
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "10ft"
+  ],
+  "Abilities": {
+    "Str": 17,
+    "Dex": 14,
+    "Con": 10,
+    "Int": 1,
+    "Wis": 3,
+    "Cha": 1
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": ["poison", "psychic"],
+  "ConditionImmunities": [
+    "blinded", "charmed", "deafned", "frightened", "paralyzed", "petrified", "poisoned"
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "blindsight 60ft (blind beyond)", "passive perception 6"
+  ],
+  "Languages": [
+  ],
+  "Challenge": "2 (450 XP)",
+  "Traits": [
+    {
+      "Name": "Antimagic\tSusceptibility",
+      "Content": "The\trug\tis\tincapacitated\twhile\t\nin\tthe\tarea\tof\tan\tantimagic\tfield. If\ttargeted\tby\tdispel\t\nmagic,\tthe\trug\tmust\tsucceed\ton\ta\tConstitution\tsaving\t\nthrow\tagainst\tthe\tcaster’s\tspell\tsave\tDC\tor\tfall\t\nunconscious\tfor\t1\tminute"
+    },
+    {
+      "Name": "Damage\tTransfer",
+      "Content": "While\tit\tis\tgrappling\ta\tcreature,\tthe\t\nrug\ttakes\tonly\thalf\tthe\tdamage\tdealt\tto\tit,\tand\tthe\t\ncreature\tgrappled\tby\tthe\trug\ttakes\tthe\tother\thalf."
+    },
+    {
+      "Name": "False\tAppearance",
+      "Content": "While\tthe\trug\tremains\tmotionless,\tit\t\nis\tindistinguishable\tfrom\ta\tnormal\trug"
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Smother",
+      "Content": "Melee\tWeapon\tAttack: +5\tto\thit,\treach\t5\tft.,\t\none\tMedium\tor\tsmaller\tcreature.\tHit: The\tcreature\tis\t\ngrappled\t(escape\tDC\t13).\tUntil\tthis\tgrapple\tends,\tthe\t\ntarget\tis\trestrained, blinded,\tand\tat\trisk\tof\tsuffocating,\t\nand\tthe\trug\tcan’t\tsmother\tanother\ttarget.\tIn\taddition,\t\nat\tthe\tstart\tof\teach\tof\tthe\ttarget’s\tturns,\tthe\ttarget\t\ntakes\t10\t(2d6\t+\t3)\tbludgeoning\tdamage."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

@@ -1,0 +1,66 @@
+{
+  "Name": "Ankheg",
+  "Tags": [
+    "monstrosity"
+  ],
+  "Source": "",
+  "Type": "Large\tmonstrosity,\tunaligned",
+  "HP": {
+    "Value": 39,
+    "Notes": "(6d10 + 6)"
+  },
+  "AC": {
+    "Value": 14,
+    "Notes": "(natural armor, 11 while prone)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "30ft", "burrow 10ft"
+  ],
+  "Abilities": {
+    "Str": 17,
+    "Dex": 11,
+    "Con": 13,
+    "Int": 1,
+    "Wis": 13,
+    "Cha": 6
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "darkvision 60ft", "tremorsense 60ft", "passive perception 11"
+  ],
+  "Languages": [
+  ],
+  "Challenge": "2 (450 XP)",
+  "Traits": [
+  ],
+  "Actions": [
+    {
+      "Name": "Bite",
+      "Content": "Melee\tWeapon\tAttack: +5\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 10\t(2d6\t+\t3)\tslashing\tdamage\tplus\t3\t(1d6)\t\nacid\tdamage.\tIf\tthe\ttarget\tis\ta\tLarge\tor\tsmaller\tcreature,\t\nit\tis\tgrappled\t(escape\tDC\t13).\tUntil\tthis\tgrapple\tends,\t\nthe\tankheg\tcan\tbite\tonly\tthe\tgrappled creature\tand\thas\t\nadvantage\ton\tattack\trolls\tto\tdo\tso."
+    },
+    {
+      "Name": "Acid\tSpray\t(Recharge\t6)",
+      "Content": "\tThe\tankheg\tspits\tacid\tin\ta\tline\t\nthat\tis\t30\tfeet\tlong\tand\t5\tfeet\twide,\tprovided\tthat\tit\thas\t\nno\tcreature\tgrappled.\tEach\tcreature\tin\tthat\tline\tmust\t\nmake\ta\tDC\t13\tDexterity\tsaving\tthrow,\ttaking\t10\t(3d6)\t\nacid\tdamage\ton\ta\tfailed\tsave,\tor\thalf\tas\tmuch\tdamage\t\non\ta\tsuccessful\tone."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}
