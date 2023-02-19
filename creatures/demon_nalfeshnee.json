@@ -1,0 +1,121 @@
+{
+  "Name": "Nalfeshnee",
+  "Tags": [
+    "fiend", "demon"
+  ],
+  "Source": "",
+  "Type": "Large\tfiend\t(demon),\tchaotic\tevil",
+  "HP": {
+    "Value": 184,
+    "Notes": "(16d10 + 96)"
+  },
+  "AC": {
+    "Value": 18,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "20ft", "fly 30ft"
+  ],
+  "Abilities": {
+    "Str": 21,
+    "Dex": 10,
+    "Con": 22,
+    "Int": 19,
+    "Wis": 12,
+    "Cha": 15
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "fire", "lightning", "bludgeoning,\t\npiercing,\tand\tslashing\tfrom\tnonmagical\tattacks"
+  ],
+  "DamageImmunities": ["poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Con",
+      "Modifier": 11
+    },
+    {
+      "Name": "Int",
+      "Modifier": 9
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 6
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 7
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "",
+      "Modifier": 0
+    }
+  ],
+  "Senses": [
+    "truesight 120ft", "passive perception 11"
+  ],
+  "Languages": [
+    "abyssal", "telepathy 120ft"
+  ],
+  "Challenge": "13 (10 000 XP)",
+  "Traits": [
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The nalfeshnee\thas\tadvantage\ton\t\nsaving\tthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tnalfeshnee\tuses\tHorror\tNimbus\tif\tit\t\ncan.\tIt\tthen\tmakes\tthree\tattacks:\tone\twith\tits\tbite\tand\t\ntwo\twith\tits\tclaws."
+    },
+    {
+      "Name": "Bite",
+      "Content": "Melee\tWeapon\tAttack: +10\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 32\t(5d10\t+\t5)\tpiercing\tdamage."
+    },
+    {
+      "Name": "Claw",
+      "Content": "Melee\tWeapon\tAttack: +10\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit: 15\t(3d6\t+\t5)\tslashing\tdamage."
+    },
+    {
+      "Name": "Horror\tNimbus\t(Recharge\t5–6)",
+      "Content": "The\tnalfeshnee\t\nmagically\temits\tscintillating,\tmulticolored\tlight.\tEach\t\ncreature\twithin\t15\tfeet\tof\tthe\tnalfeshnee\tthat\tcan\tsee\t\nthe\tlight\tmust\tsucceed\ton\ta\tDC\t15\tWisdom\tsaving\t\nthrow\tor\tbe\tfrightened\tfor\t1\tminute.\tA\tcreature\tcan\t\nrepeat\tthe\tsaving\tthrow\tat\tthe\tend\tof\teach\tof\tits\tturns,\t\nending\tthe\teffect\ton\titself\ton\ta\tsuccess.\tIf\ta\tcreature’s\t\nsaving\tthrow\tis\tsuccessful\tor\tthe\teffect\tends\tfor\tit,\tthe\t\nNot\tfor\tresale.\tPermission\tgranted\tto\tprint\tor\tphotocopy\tthis\tdocument\tfor\tpersonal\tuse\tonly. System\tReference\tDocument\t5.1 273\ncreature\tis\timmune\tto\tthe\tnalfeshnee’s\tHorror\tNimbus\t\nfor\tthe\tnext\t24\thours."
+    },
+    {
+      "Name": "Teleport",
+      "Content": "The\tnalfeshnee\tmagically\tteleports,\talong\t\nwith\tany\tequipment\tit\tis\twearing\tor\tcarrying,\tup\tto\t120\t\nfeet\tto\tan\tunoccupied\tspace\tit\tcan\tsee."
+    }
+  ],
+  "BonusActions": [
+    {
+      "Name": "",
+      "Content": ""
+    }
+  ],
+  "Reactions": [
+    {
+      "Name": "",
+      "Content": ""
+    }
+  ],
+  "LegendaryActions": [
+    {
+      "Name": "",
+      "Content": ""
+    }
+  ],
+  "MythicActions": [
+    {
+      "Name": "",
+      "Content": ""
+    }
+  ],
+  "Description": ""
+}

@@ -1,0 +1,93 @@
+{
+  "Name": "Hezrou",
+  "Tags": [
+    "fiend", "demon"
+  ],
+  "Source": "",
+  "Type": "Large\tfiend\t(demon),\tchaotic\tevil",
+  "HP": {
+    "Value": 136,
+    "Notes": "(13d10 + 65)"
+  },
+  "AC": {
+    "Value": 16,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "30ft"
+  ],
+  "Abilities": {
+    "Str": 19,
+    "Dex": 17,
+    "Con": 20,
+    "Int": 5,
+    "Wis": 12,
+    "Cha": 13
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "fire", "lightning", "\tbludgeoning,\t\npiercing,\tand\tslashing\tfrom\tnonmagical\tattacks"
+  ],
+  "DamageImmunities": ["poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Str",
+      "Modifier": 7
+    },
+    {
+      "Name": "Con",
+      "Modifier": 8
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 4
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "darkvision 120ft", "passive perception 11"
+  ],
+  "Languages": [
+    "abyssal", "telepathy 120ft"
+  ],
+  "Challenge": "8 (3 900 XP)",
+  "Traits": [
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\thezrou\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects"
+    },
+    {
+      "Name": "Stench",
+      "Content": "Any\tcreature\tthat\tstarts\tits\tturn\twithin\t10\tfeet\t\nof\tthe\thezrou\tmust\tsucceed\ton\ta\tDC\t14\tConstitution\t\nsaving\tthrow\tor\tbe\tpoisoned\tuntil\tthe\tstart\tof\tits\tnext\t\nturn.\tOn\ta\tsuccessful\tsaving\tthrow,\tthe\tcreature\tis\t\nimmune\tto\tthe\thezrou’s\tstench\tfor\t24\thours."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\thezrou\tmakes\tthree\tattacks:\tone\twith\t\nits\tbite\tand\ttwo\twith\tits\tclaws"
+    },
+    {
+      "Name": "Bite",
+      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach 5\tft.,\tone\t\ntarget.\tHit:\t15\t(2d10\t+\t4)\tpiercing\tdamage.\n"
+    },
+    {
+      "Name": "Claw",
+      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 11\t(2d6\t+\t4)\tslashing\tdamage."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

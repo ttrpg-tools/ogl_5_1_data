@@ -1,0 +1,78 @@
+{
+  "Name": "Darkmantle",
+  "Tags": [
+    "monstrosity"
+  ],
+  "Source": "",
+  "Type": "Small\tmonstrosity,\tunaligned",
+  "HP": {
+    "Value": 22,
+    "Notes": "(5d6 + 5)"
+  },
+  "AC": {
+    "Value": 11,
+    "Notes": ""
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "10ft", "fly 30ft"
+  ],
+  "Abilities": {
+    "Str": 16,
+    "Dex": 12,
+    "Con": 13,
+    "Int": 2,
+    "Wis": 10,
+    "Cha": 5
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+  ],
+  "DamageImmunities": [],
+  "ConditionImmunities": [
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+    {
+      "Name": "Stealth",
+      "Modifier": 3
+    }
+  ],
+  "Senses": [
+    "blindsight 60ft", "passive perception 10"
+  ],
+  "Languages": [
+  ],
+  "Challenge": "1/2 (100 XP)",
+  "Traits": [
+    {
+      "Name": "Echolocation",
+      "Content": "The\tdarkmantle\tcan’t\tuse\tits\tblindsight\t\nwhile\tdeafened"
+    },
+    {
+      "Name": "False\tAppearance",
+      "Content": "While\tthe\tdarkmantle\tremains\t\nmotionless,\tit\tis\tindistinguishable\tfrom\ta\tcave\t\nformation\tsuch\tas\ta\tstalactite\tor\tstalagmite."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Crush",
+      "Content": "Melee\tWeapon\tAttack: +5\tto\thit,\treach\t5\tft.,\tone\t\ncreature.\tHit: 6\t(1d6\t+\t3)\tbludgeoning\tdamage,\tand\tthe\t\ndarkmantle\tattaches\tto\tthe\ttarget.\tIf\tthe\ttarget\tis\t\nMedium\tor\tsmaller\tand\tthe\tdarkmantle\thas\tadvantage\t\non\tthe\tattack\troll,\tit\tattaches\tby\tengulfing\tthe\ttarget’s\t\nhead,\tand\tthe\ttarget\tis\talso\tblinded\tand\tunable\tto\t\nbreathe\twhile\tthe\tdarkmantle\tis\tattached\tin\tthis\tway.\nWhile\tattached\tto\tthe\ttarget,\tthe\tdarkmantle\tcan\t\nattack\tno\tother\tcreature\texcept\tthe\ttarget\tbut\thas\t\nadvantage\ton\tits\tattack\trolls.\tThe\tdarkmantle’s\tspeed\t\nalso\tbecomes\t0,\tit\tcan’t\tbenefit\tfrom\tany\tbonus\tto\tits\t\nspeed,\tand\tit\tmoves\twith\tthe\ttarget.\nA\tcreature\tcan\tdetach\tthe\tdarkmantle\tby\tmaking\ta\t\nsuccessful\tDC\t13\tStrength\tcheck\tas\tan\taction.\tOn\tits\t\nturn,\tthe\tdarkmantle\tcan\tdetach\titself\tfrom\tthe\ttarget\t\nby\tusing\t5\tfeet\tof\tmovement."
+    },
+    {
+      "Name": "Darkness\tAura\t(1/Day)",
+      "Content": ". A\t15-foot\tradius\tof\tmagical\t\ndarkness\textends\tout\tfrom\tthe\tdarkmantle,\tmoves\twith\t\nit,\tand\tspreads\taround\tcorners.\tThe\tdarkness\tlasts\tas\t\nlong\tas\tthe\tdarkmantle\tmaintains\tconcentration,\tup\tto\t\n10\tminutes\t(as\tif\tconcentrating\ton\ta\tspell).\tDarkvision\t\ncan’t\tpenetrate\tthis\tdarkness,\tand\tno\tnatural\tlight\tcan\t\nilluminate\tit.\tIf\tany\tof\tthe\tdarkness\toverlaps\twith\tan\t\narea\tof\tlight\tcreated\tby\ta\tspell\tof\t2nd\tlevel\tor\tlower,\t\nthe\tspell\tcreating\tthe\tlight\tis\tdispelled."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

@@ -1,0 +1,108 @@
+{
+  "Name": "Balor",
+  "Tags": [
+    "demon", "fiend"
+  ],
+  "Source": "",
+  "Type": "Huge\tfiend\t(demon),\tchaotic\tevil",
+  "HP": {
+    "Value": 262,
+    "Notes": "(21d12 + 126)"
+  },
+  "AC": {
+    "Value": 19,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "40ft", "fly 80ft"
+  ],
+  "Abilities": {
+    "Str": 26,
+    "Dex": 15,
+    "Con": 22,
+    "Int": 20,
+    "Wis": 16,
+    "Cha": 22
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "lightning", "bludgeoning, piercing, and slashing from nonmagical attacks"
+  ],
+  "DamageImmunities": ["fire", "poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "str",
+      "Modifier": 14
+    },
+    {
+      "Name": "con",
+      "Modifier": 12
+    },
+    {
+      "Name": "wis",
+      "Modifier": 9
+    },
+    {
+      "Name": "cha",
+      "Modifier": 12
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+  ],
+  "Languages": [
+    "abyssal", "telepathy 120ft"
+  ],
+  "Challenge": "19 (22 000 XP)",
+  "Traits": [
+    {
+      "Name": "Death\tThroes",
+      "Content": "When\tthe\tbalor\tdies,\tit\texplodes,\tand\t\neach\tcreature\twithin\t30\tfeet\tof\tit\tmust\tmake\ta\tDC\t20\t\nDexterity\tsaving\tthrow,\ttaking\t70\t(20d6)\tfire\tdamage\t\non\ta\tfailed\tsave,\tor\thalf\tas\tmuch\tdamage\ton\ta\t\nsuccessful\tone.\tThe\texplosion\tignites\tflammable\t\nobjects\tin\tthat\tarea\tthat\taren’t\tbeing\tworn\tor\tcarried,\t\nand\tit\tdestroys\tthe\tbalor’s\tweapons"
+    },
+    {
+      "Name": "Fire\tAura",
+      "Content": "At\tthe\tstart\tof\teach\tof\tthe\tbalor’s\tturns,\teach\t\ncreature\twithin\t5\tfeet\tof\tit\ttakes\t10\t(3d6)\tfire\tdamage,\t\nand\tflammable\tobjects\tin\tthe\taura\tthat\taren’t\tbeing\t\nworn\tor\tcarried\tignite.\tA\tcreature\tthat\ttouches\tthe\t\nbalor\tor\thits\tit\twith\ta\tmelee\tattack\twhile\twithin\t5\tfeet\t\nof\tit\ttakes\t10\t(3d6)\tfire\tdamage."
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tbalor\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects"
+    },
+    {
+      "Name": "Magic\tWeapons",
+      "Content": "The\tbalor’s\tweapon\tattacks\tare\t\nmagical"
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tbalor\tmakes\ttwo\tattacks:\tone\twith\tits\t\nlongsword\tand\tone\twith\tits\twhip"
+    },
+    {
+      "Name": "Longsword",
+      "Content": "Melee\tWeapon\tAttack: +14\tto\thit,\treach\t10\t\nft.,\tone\ttarget.\tHit: 21\t(3d8\t+\t8)\tslashing\tdamage\tplus\t\n13\t(3d8)\tlightning\tdamage.\tIf\tthe\tbalor\tscores\ta\tcritical\t\nhit,\tit\trolls\tdamage\tdice\tthree\ttimes,\tinstead\tof\ttwice."
+    },
+    {
+      "Name": "Whip",
+      "Content": "Melee\tWeapon\tAttack: +14\tto\thit,\treach\t30\tft.,\t\none\ttarget.\tHit: 15\t(2d6\t+\t8)\tslashing\tdamage\tplus\t10\t\n(3d6)\tfire\tdamage,\tand\tthe\ttarget\tmust\tsucceed\ton\ta\t\nDC 20\tStrength\tsaving\tthrow\tor\tbe\tpulled\tup\tto\t25\tfeet\t\ntoward\tthe\tbalor."
+    },
+    {
+      "Name": "Teleport",
+      "Content": "The\tbalor\tmagically\tteleports,\talong\twith\tany\t\nequipment\tit\tis\twearing\tor\tcarrying,\tup\tto\t120\tfeet\tto\t\nan\tunoccupied\tspace\tit\tcan\tsee."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

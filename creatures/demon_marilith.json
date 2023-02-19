@@ -1,0 +1,109 @@
+{
+  "Name": "Marilith",
+  "Tags": [
+    "demon", "fiend"
+  ],
+  "Source": "",
+  "Type": "Large\tfiend\t(demon),\tchaotic\tevil",
+  "HP": {
+    "Value": 189,
+    "Notes": "(18d10 + 90)"
+  },
+  "AC": {
+    "Value": 18,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "40ft"
+  ],
+  "Abilities": {
+    "Str": 18,
+    "Dex": 20,
+    "Con": 20,
+    "Int": 18,
+    "Wis": 16,
+    "Cha": 20
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "fire", "lightning", "bludgeoning,\t\npiercing,\tand\tslashing\tfrom\tnonmagical\tattacks"
+  ],
+  "DamageImmunities": ["poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Str",
+      "Modifier": 9
+    },
+    {
+      "Name": "Con",
+      "Modifier": 10
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 8
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 10
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "truesight 120ft", "passive perception 13"
+  ],
+  "Languages": [
+    "abyssal", "telepathy 120ft"
+  ],
+  "Challenge": "16 (15 000 XP)",
+  "Traits": [
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tmarilith\thas\tadvantage\ton\t\nsaving\tthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    },
+    {
+      "Name": "Magic Weapons",
+      "Content": "The\tmarilith’s\tweapon\tattacks\tare\t\nmagical."
+    },
+    {
+      "Name": "Reactive",
+      "Content": "The\tmarilith\tcan\ttake\tone\treaction\ton\tevery\t\nturn\tin\ta\tcombat."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tmarilith\tmakes\tseven\tattacks:\tsix\twith\t\nits\tlongswords\tand\tone\twith\tits\ttail"
+    },
+    {
+      "Name": "Longsword",
+      "Content": "Melee\tWeapon\tAttack: +9\tto\thit,\treach\t5\tft.,\t\none\ttarget.\tHit: 13\t(2d8\t+\t4)\tslashing\tdamage."
+    },
+    {
+      "Name": "Tail",
+      "Content": "Melee\tWeapon\tAttack: +9\tto\thit,\treach\t10\tft.,\tone\t\ncreature.\tHit:\t15\t(2d10\t+\t4)\tbludgeoning\tdamage.\tIf\tthe\t\ntarget\tis\tMedium\tor\tsmaller,\tit\tis\tgrappled\t(escape\tDC\t\n19).\tUntil this\tgrapple\tends,\tthe\ttarget\tis\trestrained,\tthe\t\nmarilith\tcan\tautomatically\thit\tthe\ttarget\twith\tits\ttail,\t\nand\tthe\tmarilith\tcan’t\tmake\ttail\tattacks\tagainst\tother\t\ntargets."
+    },
+    {
+      "Name": "Teleport",
+      "Content": "The\tmarilith\tmagically\tteleports,\talong\twith\t\nany\tequipment\tit\tis\twearing\tor carrying,\tup\tto\t120\tfeet\t\nto\tan\tunoccupied\tspace\tit\tcan\tsee."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+    {
+      "Name": "Parry",
+      "Content": "The\tmarilith\tadds\t5\tto\tits\tAC\tagainst\tone\tmelee\t\nattack\tthat\twould\thit\tit.\tTo\tdo\tso,\tthe\tmarilith\tmust\tsee\t\nthe\tattacker\tand\tbe\twielding\ta\tmelee\tweapon."
+    }
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

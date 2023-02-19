@@ -1,0 +1,77 @@
+{
+  "Name": "Dretch",
+  "Tags": [
+    "demon", "fiend"
+  ],
+  "Source": "",
+  "Type": "Small\tfiend\t(demon),\tchaotic\tevil",
+  "HP": {
+    "Value": 18,
+    "Notes": "(4d6 + 4)"
+  },
+  "AC": {
+    "Value": 11,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "20ft"
+  ],
+  "Abilities": {
+    "Str": 11,
+    "Dex": 11,
+    "Con": 12,
+    "Int": 5,
+    "Wis": 8,
+    "Cha": 3
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "fire", "lightning"
+  ],
+  "DamageImmunities": ["poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "darkvision 60ft", "passive perception 9"
+  ],
+  "Languages": [
+    "abyssal", "telepathy 60ft (works only with creatures that understand abyssal)"
+  ],
+  "Challenge": "1/4 (50 XP)",
+  "Traits": [
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tdretch\tmakes\ttwo\tattacks:\tone\twith\t\nits\tbite\tand\tone\twith\tits\tclaws."
+    },
+    {
+      "Name": "Bite",
+      "Content": "Melee\tWeapon\tAttack: +2\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit:\t3\t(1d6)\tpiercing\tdamage."
+    },
+    {
+      "Name": "Claws",
+      "Content": "Melee\tWeapon\tAttack: +2\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 5\t(2d4)\tslashing\tdamage."
+    },
+    {
+      "Name": "Fetid\tCloud\t(1/Day)",
+      "Content": "A\t10-foot\tradius\tof\tdisgusting\t\ngreen\tgas\textends\tout\tfrom\tthe\tdretch.\tThe\tgas\tspreads\t\naround\tcorners,\tand\tits\tarea\tis\tlightly\tobscured.\tIt\tlasts\t\nfor\t1\tminute\tor\tuntil\ta\tstrong\twind\tdisperses\tit.\tAny\t\ncreature\tthat\tstarts\tits\tturn\tin\tthat\tarea\tmust\tsucceed\t\non\ta\tDC\t11\tConstitution\tsaving\tthrow\tor\tbe\tpoisoned\t\nuntil\tthe\tstart\tof\tits\tnext\tturn.\tWhile\tpoisoned\tin\tthis\t\nway,\tthe\ttarget\tcan\ttake\teither\tan\taction\tor\ta\tbonus\t\naction\ton\tits\tturn,\tnot\tboth,\tand\tcan’t\ttake\treactions."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

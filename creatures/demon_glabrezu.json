@@ -1,0 +1,97 @@
+{
+  "Name": "Glabrezu",
+  "Tags": [
+    "demon", "fiend"
+  ],
+  "Source": "",
+  "Type": "Large\tfiend\t(demon),\tchaotic\tevil",
+  "HP": {
+    "Value": 157,
+    "Notes": "(15d10 + 75)"
+  },
+  "AC": {
+    "Value": 17,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "40ft"
+  ],
+  "Abilities": {
+    "Str": 20,
+    "Dex": 15,
+    "Con": 21,
+    "Int": 19,
+    "Wis": 17,
+    "Cha": 16
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "fire", "lightning", "bludgeoning,\t\npiercing,\tand\tslashing\tfrom\tnonmagical\tattacks"
+  ],
+  "DamageImmunities": ["poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Str",
+      "Modifier": 9
+    },
+    {
+      "Name": "Con",
+      "Modifier": 9
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 7
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 7
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "truesight 120ft", "passive perception 13"
+  ],
+  "Languages": [
+    "abyssal", "telepathy 120ft"
+  ],
+  "Challenge": "9 (5 000 XP)",
+  "Traits": [
+    {
+      "Name": "Innate\tSpellcasting",
+      "Content": "The\tglabrezu’s\tspellcasting\tability\t\nis\tIntelligence\t(spell\tsave\tDC\t16).\tThe\tglabrezu\tcan\t\ninnately\tcast\tthe\tfollowing\tspells,\trequiring\tno\tmaterial\t\ncomponents:\nAt\twill:\tdarkness,\tdetect\tmagic,\tdispel\tmagic\n1/day\teach:\tconfusion,\tfly,\tpower\tword\tstun"
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tglabrezu\thas\tadvantage\ton\t\nsaving\tthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tglabrezu\tmakes\tfour\tattacks:\ttwo\twith\t\nits\tpincers\tand\ttwo\twith\tits\tfists.\tAlternatively,\tit\tmakes\t\ntwo\tattacks\twith\tits\tpincers\tand\tcasts\tone\tspell."
+    },
+    {
+      "Name": "Pincer",
+      "Content": "Melee\tWeapon\tAttack: +9\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit: 16\t(2d10\t+\t5)\tbludgeoning\tdamage.\tIf\t\nthe\ttarget\tis\ta\tMedium\tor\tsmaller\tcreature,\tit\tis\t\ngrappled\t(escape\tDC\t15).\tThe\tglabrezu\thas\ttwo\tpincers,\t\neach\tof\twhich\tcan\tgrapple\tonly\tone\ttarget."
+    },
+    {
+      "Name": "Fist",
+      "Content": "Melee\tWeapon\tAttack: +9\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit:\t7\t(2d4\t+\t2)\tbludgeoning\tdamage."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}
