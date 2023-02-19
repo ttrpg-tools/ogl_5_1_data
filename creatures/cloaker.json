@@ -4,7 +4,7 @@
     "abberation"
   ],
   "Source": "",
-  "Type": "Large\taberration,\tchaotic\tneutral",
+  "Type": "Large aberration, chaotic neutral",
   "HP": {
     "Value": 78,
     "Notes": "(12d10 + 12)"
@@ -49,38 +49,38 @@
   "Challenge": "8 (3 900 XP)",
   "Traits": [
     {
-      "Name": "Damage\tTransfer",
-      "Content": "While\tattached\tto\ta\tcreature,\tthe\t\ncloaker\ttakes\tonly\thalf\tthe\tdamage\tdealt\tto\tit\t(rounded\t\ndown),\tand\tthat\tcreature\ttakes\tthe\tother\thalf."
+      "Name": "Damage Transfer",
+      "Content": "While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down), and that creature takes the other half."
     },
     {
-      "Name": "False\tAppearance",
-      "Content": "While\tthe\tcloaker\tremains\t\nmotionless\twithout\tits\tunderside\texposed,\tit\tis\t\nindistinguishable\tfrom\ta\tdark\tleather\tcloak."
+      "Name": "False Appearance",
+      "Content": "While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak."
     },
     {
-      "Name": "Light\tSensitivity",
-      "Content": "While\tin\tbright\tlight,\tthe\tcloaker\thas\t\ndisadvantage\ton\tattack\trolls\tand\tWisdom\t(Perception)\t\nchecks\tthat\trely\ton\tsight."
+      "Name": "Light Sensitivity",
+      "Content": "While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tcloaker\tmakes\ttwo\tattacks:\tone\twith\t\nits\tbite\tand\tone\twith\tits\ttail."
+      "Content": "The cloaker makes two attacks: one with its bite and one with its tail."
     },
     {
       "Name": "Bite",
-      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t5\tft.,\tone\t\ncreature.\tHit: 10\t(2d6\t+\t3)\tpiercing\tdamage,\tand\tif\tthe\t\ntarget\tis\tLarge or\tsmaller,\tthe\tcloaker\tattaches\tto\tit.\tIf\t\nthe\tcloaker\thas\tadvantage\tagainst\tthe\ttarget,\tthe\t\ncloaker\tattaches\tto\tthe\ttarget’s\thead,\tand\tthe\ttarget\tis\t\nblinded\tand\tunable\tto\tbreathe\twhile\tthe\tcloaker\tis\t\nattached.\tWhile\tattached,\tthe\tcloaker\tcan\tmake\tthis\t\nattack\tonly\tagainst\tthe\ttarget\tand\thas\tadvantage\ton\tthe\t\nattack\troll.\tThe\tcloaker\tcan\tdetach\titself\tby\tspending\t5\t\nfeet\tof\tits\tmovement.\tA\tcreature,\tincluding\tthe\ttarget,\t\ncan\ttake\tits\taction\tto\tdetach\tthe\tcloaker\tby\tsucceeding\t\non\ta\tDC\t16\tStrength\tcheck."
+      "Content": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target’s head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check."
     },
     {
       "Name": "Tail",
-      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t10\tft.,\tone\t\ncreature.\tHit: 7\t(1d8\t+\t3)\tslashing\tdamage."
+      "Content": "Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit: 7 (1d8 + 3) slashing damage."
     },
     {
       "Name": "Moan",
-      "Content": "Each\tcreature\twithin\t60\tfeet\tof\tthe\tcloaker\tthat\t\ncan\thear\tits\tmoan\tand\tthat\tisn’t\tan\taberration\tmust\t\nsucceed\ton\ta\tDC\t13\tWisdom\tsaving\tthrow\tor\tbecome\t\nfrightened\tuntil\tthe\tend\tof\tthe\tcloaker’s\tnext\tturn.\tIf\ta\t\ncreature’s\tsaving\tthrow\tis\tsuccessful,\tthe\tcreature\tis\t\nimmune\tto\tthe\tcloaker’s\tmoan\tfor\tthe\tnext\t24\thours"
+      "Content": "Each creature within 60 feet of the cloaker that can hear its moan and that isn’t an aberration must succeed on a DC 13 Wisdom saving throw or become frightened until the end of the cloaker’s next turn. If a creature’s saving throw is successful, the creature is immune to the cloaker’s moan for the next 24 hours"
     },
     {
-      "Name": "Phantasms\t(Recharges\tafter\ta\tShort\tor\tLong\tRest)",
-      "Content": ". The\t\ncloaker\tmagically\tcreates\tthree\tillusory\tduplicates\tof\t\nitself\tif\tit\tisn’t\tin\tbright\tlight.\tThe\tduplicates\tmove\twith\t\nit\tand\tmimic\tits\tactions,\tshifting\tposition\tso\tas\tto\tmake\t\nit\timpossible\tto\ttrack\twhich\tcloaker\tis\tthe\treal\tone.\tIf\t\nthe\tcloaker\tis\tever\tin\tan\tarea\tof\tbright\tlight,\tthe\t\nduplicates\tdisappear.\nWhenever\tany\tcreature\ttargets\tthe\tcloaker\twith\tan\t\nattack\tor\ta\tharmful\tspell\twhile\ta\tduplicate\tremains,\t\nthat\tcreature\trolls\trandomly\tto\tdetermine\twhether\tit\t\ntargets\tthe\tcloaker\tor\tone\tof\tthe\tduplicates.\tA\tcreature\t\nis\tunaffected\tby\tthis\tmagical\teffect\tif\tit\tcan’t\tsee\tor\tif\tit\t\nrelies\ton\tsenses\tother\tthan\tsight.\nA\tduplicate\thas\tthe\tcloaker’s\tAC\tand\tuses\tits\tsaving\t\nthrows.\tIf\tan\tattack\thits\ta\tduplicate,\tor\tif\ta\tduplicate\t\nfails\ta\tsaving\tthrow\tagainst\tan\teffect\tthat\tdeals\tdamage,\t\nthe\tduplicate\tdisappears.\n"
+      "Name": "Phantasms (Recharges after a Short or Long Rest)",
+      "Content": ". The cloaker magically creates three illusory duplicates of itself if it isn’t in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this magical effect if it can’t see or if it relies on senses other than sight.A duplicate has the cloaker’s AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears."
     }
   ],
   "BonusActions": [

@@ -4,7 +4,7 @@
     "monstrosity"
   ],
   "Source": "",
-  "Type": "Large\tmonstrosity,\tchaotic\tevil",
+  "Type": "Large monstrosity, chaotic evil",
   "HP": {
     "Value": 114,
     "Notes": "(12d10 + 48)"
@@ -52,23 +52,23 @@
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tchimera\tmakes\tthree\tattacks:\tone\t\nwith\tits\tbite,\tone\twith\tits\thorns,\tand\tone\twith\tits\tclaws.\t\nWhen\tits\tfire\tbreath\tis\tavailable,\tit\tcan\tuse\tthe\tbreath\t\nin\tplace\tof\tits\tbite\tor\thorns"
+      "Content": "The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns"
     },
     {
       "Name": "Bite",
-      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 11\t(2d6\t+\t4)\tpiercing\tdamage"
+      "Content": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage"
     },
     {
       "Name": "Horns",
-      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 10\t(1d12\t+\t4)\tbludgeoning\tdamage."
+      "Content": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) bludgeoning damage."
     },
     {
       "Name": "Claws",
-      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit:\t11\t(2d6\t+\t4)\tslashing\tdamage."
+      "Content": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
     },
     {
-      "Name": "Fire\tBreath\t(Recharge\t5–6)",
-      "Content": "The\tdragon\thead\texhales\t\nfire\tin\ta\t15-foot\tcone.\tEach\tcreature\tin\tthat\tarea\tmust\t\nmake\ta\tDC\t15\tDexterity\tsaving\tthrow,\ttaking\t31\t(7d8)\t\nfire\tdamage\ton\ta\tfailed\tsave,\tor\thalf\tas\tmuch\tdamage\t\non\ta\tsuccessful\tone."
+      "Name": "Fire Breath (Recharge 5–6)",
+      "Content": "The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one."
     }
   ],
   "BonusActions": [

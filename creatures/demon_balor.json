@@ -4,7 +4,7 @@
     "demon", "fiend"
   ],
   "Source": "",
-  "Type": "Huge\tfiend\t(demon),\tchaotic\tevil",
+  "Type": "Huge fiend (demon), chaotic evil",
   "HP": {
     "Value": 262,
     "Notes": "(21d12 + 126)"
@@ -62,38 +62,38 @@
   "Challenge": "19 (22 000 XP)",
   "Traits": [
     {
-      "Name": "Death\tThroes",
-      "Content": "When\tthe\tbalor\tdies,\tit\texplodes,\tand\t\neach\tcreature\twithin\t30\tfeet\tof\tit\tmust\tmake\ta\tDC\t20\t\nDexterity\tsaving\tthrow,\ttaking\t70\t(20d6)\tfire\tdamage\t\non\ta\tfailed\tsave,\tor\thalf\tas\tmuch\tdamage\ton\ta\t\nsuccessful\tone.\tThe\texplosion\tignites\tflammable\t\nobjects\tin\tthat\tarea\tthat\taren’t\tbeing\tworn\tor\tcarried,\t\nand\tit\tdestroys\tthe\tbalor’s\tweapons"
+      "Name": "Death Throes",
+      "Content": "When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren’t being worn or carried, and it destroys the balor’s weapons"
     },
     {
-      "Name": "Fire\tAura",
-      "Content": "At\tthe\tstart\tof\teach\tof\tthe\tbalor’s\tturns,\teach\t\ncreature\twithin\t5\tfeet\tof\tit\ttakes\t10\t(3d6)\tfire\tdamage,\t\nand\tflammable\tobjects\tin\tthe\taura\tthat\taren’t\tbeing\t\nworn\tor\tcarried\tignite.\tA\tcreature\tthat\ttouches\tthe\t\nbalor\tor\thits\tit\twith\ta\tmelee\tattack\twhile\twithin\t5\tfeet\t\nof\tit\ttakes\t10\t(3d6)\tfire\tdamage."
+      "Name": "Fire Aura",
+      "Content": "At the start of each of the balor’s turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren’t being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage."
     },
     {
-      "Name": "Magic\tResistance",
-      "Content": "The\tbalor\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects"
+      "Name": "Magic Resistance",
+      "Content": "The balor has advantage on saving throws against spells and other magical effects"
     },
     {
-      "Name": "Magic\tWeapons",
-      "Content": "The\tbalor’s\tweapon\tattacks\tare\t\nmagical"
+      "Name": "Magic Weapons",
+      "Content": "The balor’s weapon attacks are magical"
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tbalor\tmakes\ttwo\tattacks:\tone\twith\tits\t\nlongsword\tand\tone\twith\tits\twhip"
+      "Content": "The balor makes two attacks: one with its longsword and one with its whip"
     },
     {
       "Name": "Longsword",
-      "Content": "Melee\tWeapon\tAttack: +14\tto\thit,\treach\t10\t\nft.,\tone\ttarget.\tHit: 21\t(3d8\t+\t8)\tslashing\tdamage\tplus\t\n13\t(3d8)\tlightning\tdamage.\tIf\tthe\tbalor\tscores\ta\tcritical\t\nhit,\tit\trolls\tdamage\tdice\tthree\ttimes,\tinstead\tof\ttwice."
+      "Content": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice."
     },
     {
       "Name": "Whip",
-      "Content": "Melee\tWeapon\tAttack: +14\tto\thit,\treach\t30\tft.,\t\none\ttarget.\tHit: 15\t(2d6\t+\t8)\tslashing\tdamage\tplus\t10\t\n(3d6)\tfire\tdamage,\tand\tthe\ttarget\tmust\tsucceed\ton\ta\t\nDC 20\tStrength\tsaving\tthrow\tor\tbe\tpulled\tup\tto\t25\tfeet\t\ntoward\tthe\tbalor."
+      "Content": "Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor."
     },
     {
       "Name": "Teleport",
-      "Content": "The\tbalor\tmagically\tteleports,\talong\twith\tany\t\nequipment\tit\tis\twearing\tor\tcarrying,\tup\tto\t120\tfeet\tto\t\nan\tunoccupied\tspace\tit\tcan\tsee."
+      "Content": "The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see."
     }
   ],
   "BonusActions": [

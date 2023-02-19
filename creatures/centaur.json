@@ -4,7 +4,7 @@
     "monstrosity"
   ],
   "Source": "",
-  "Type": "Large\tmonstrosity,\tneutral\tgood",
+  "Type": "Large monstrosity, neutral good",
   "HP": {
     "Value": 45,
     "Notes": "(6d10 + 12)"
@@ -58,25 +58,25 @@
   "Traits": [
     {
       "Name": "Charge",
-      "Content": "If\tthe\tcentaur\tmoves\tat\tleast\t30\tfeet\tstraight\t\ntoward\ta\ttarget\tand then\thits\tit\twith\ta\tpike\tattack\ton\t\nthe\tsame\tturn,\tthe\ttarget\ttakes\tan\textra\t10\t(3d6)\t\npiercing\tdamage."
+      "Content": "If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tcentaur\tmakes\ttwo\tattacks:\tone\twith\t\nits\tpike\tand\tone\twith\tits\thooves\tor\ttwo\twith\tits\t\nlongbow."
+      "Content": "The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow."
     },
     {
       "Name": "Pike",
-      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t10\tft.,\tone\t\ntarget.\tHit: 9\t(1d10\t+\t4)\tpiercing\tdamage."
+      "Content": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage."
     },
     {
       "Name": "Hooves",
-      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t5\tft.,\t\none\ttarget.\tHit: 11\t(2d6\t+\t4)\tbludgeoning\tdamage."
+      "Content": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage."
     },
     {
       "Name": "Longbow",
-      "Content": "Ranged\tWeapon\tAttack: +4\tto\thit,\trange\t\n150/600\tft.,\tone\ttarget.\tHit: 6\t(1d8\t+\t2)\tpiercing\t\ndamage."
+      "Content": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
     }
   ],
   "BonusActions": [

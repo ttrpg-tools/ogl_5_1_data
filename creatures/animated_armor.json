@@ -4,7 +4,7 @@
     "animated object", "construct"
   ],
   "Source": "",
-  "Type": "Medium\tconstruct,\tunaligned",
+  "Type": "Medium construct, unaligned",
   "HP": {
     "Value": 33,
     "Notes": "(6d8 + 6)"
@@ -45,22 +45,22 @@
   "Challenge": "1 (200 XP)",
   "Traits": [
     {
-      "Name": "Antimagic\tSusceptibility",
-      "Content": "The\tarmor\tis\tincapacitated\t\nwhile\tin\tthe\tarea\tof\tan\tantimagic\tfield. If\ttargeted\tby\t\ndispel\tmagic,\tthe\tarmor\tmust\tsucceed\ton\ta\t\nNot\tfor\tresale.\tPermission\tgranted\tto\tprint\tor\tphotocopy\tthis\tdocument\tfor\tpersonal\tuse\tonly. System\tReference\tDocument\t5.1 264\nConstitution\tsaving\tthrow\tagainst\tthe\tcaster’s\tspell\t\nsave\tDC\tor\tfall\tunconscious\tfor\t1\tminute."
+      "Name": "Antimagic Susceptibility",
+      "Content": "The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 264Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute."
     },
     {
-      "Name": "False\tAppearance",
-      "Content": "While\tthe\tarmor\tremains\t\nmotionless,\tit\tis\tindistinguishable\tfrom\ta\tnormal\tsuit\tof\t\narmor."
+      "Name": "False Appearance",
+      "Content": "While the armor remains motionless, it is indistinguishable from a normal suit of armor."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tarmor\tmakes\ttwo\tmelee\tattacks."
+      "Content": "The armor makes two melee attacks."
     },
     {
       "Name": "Slam",
-      "Content": "Melee\tWeapon\tAttack: +4\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 5\t(1d6\t+\t2)\tbludgeoning\tdamage."
+      "Content": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage."
     }
   ],
   "BonusActions": [

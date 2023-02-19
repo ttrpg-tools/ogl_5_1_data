@@ -4,7 +4,7 @@
     "demon", "fiend"
   ],
   "Source": "",
-  "Type": "Large\tfiend\t(demon),\tchaotic\tevil",
+  "Type": "Large fiend (demon), chaotic evil",
   "HP": {
     "Value": 189,
     "Notes": "(18d10 + 90)"
@@ -28,7 +28,7 @@
   },
   "DamageVulnerabilities": [],
   "DamageResistances": [
-    "cold", "fire", "lightning", "bludgeoning,\t\npiercing,\tand\tslashing\tfrom\tnonmagical\tattacks"
+    "cold", "fire", "lightning", "bludgeoning, piercing, and slashing from nonmagical attacks"
   ],
   "DamageImmunities": ["poison"],
   "ConditionImmunities": [
@@ -63,34 +63,34 @@
   "Challenge": "16 (15 000 XP)",
   "Traits": [
     {
-      "Name": "Magic\tResistance",
-      "Content": "The\tmarilith\thas\tadvantage\ton\t\nsaving\tthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+      "Name": "Magic Resistance",
+      "Content": "The marilith has advantage on saving throws against spells and other magical effects."
     },
     {
       "Name": "Magic Weapons",
-      "Content": "The\tmarilith’s\tweapon\tattacks\tare\t\nmagical."
+      "Content": "The marilith’s weapon attacks are magical."
     },
     {
       "Name": "Reactive",
-      "Content": "The\tmarilith\tcan\ttake\tone\treaction\ton\tevery\t\nturn\tin\ta\tcombat."
+      "Content": "The marilith can take one reaction on every turn in a combat."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tmarilith\tmakes\tseven\tattacks:\tsix\twith\t\nits\tlongswords\tand\tone\twith\tits\ttail"
+      "Content": "The marilith makes seven attacks: six with its longswords and one with its tail"
     },
     {
       "Name": "Longsword",
-      "Content": "Melee\tWeapon\tAttack: +9\tto\thit,\treach\t5\tft.,\t\none\ttarget.\tHit: 13\t(2d8\t+\t4)\tslashing\tdamage."
+      "Content": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage."
     },
     {
       "Name": "Tail",
-      "Content": "Melee\tWeapon\tAttack: +9\tto\thit,\treach\t10\tft.,\tone\t\ncreature.\tHit:\t15\t(2d10\t+\t4)\tbludgeoning\tdamage.\tIf\tthe\t\ntarget\tis\tMedium\tor\tsmaller,\tit\tis\tgrappled\t(escape\tDC\t\n19).\tUntil this\tgrapple\tends,\tthe\ttarget\tis\trestrained,\tthe\t\nmarilith\tcan\tautomatically\thit\tthe\ttarget\twith\tits\ttail,\t\nand\tthe\tmarilith\tcan’t\tmake\ttail\tattacks\tagainst\tother\t\ntargets."
+      "Content": "Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can’t make tail attacks against other targets."
     },
     {
       "Name": "Teleport",
-      "Content": "The\tmarilith\tmagically\tteleports,\talong\twith\t\nany\tequipment\tit\tis\twearing\tor carrying,\tup\tto\t120\tfeet\t\nto\tan\tunoccupied\tspace\tit\tcan\tsee."
+      "Content": "The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see."
     }
   ],
   "BonusActions": [
@@ -98,7 +98,7 @@
   "Reactions": [
     {
       "Name": "Parry",
-      "Content": "The\tmarilith\tadds\t5\tto\tits\tAC\tagainst\tone\tmelee\t\nattack\tthat\twould\thit\tit.\tTo\tdo\tso,\tthe\tmarilith\tmust\tsee\t\nthe\tattacker\tand\tbe\twielding\ta\tmelee\tweapon."
+      "Content": "The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon."
     }
   ],
   "LegendaryActions": [

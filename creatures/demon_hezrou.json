@@ -4,7 +4,7 @@
     "fiend", "demon"
   ],
   "Source": "",
-  "Type": "Large\tfiend\t(demon),\tchaotic\tevil",
+  "Type": "Large fiend (demon), chaotic evil",
   "HP": {
     "Value": 136,
     "Notes": "(13d10 + 65)"
@@ -28,7 +28,7 @@
   },
   "DamageVulnerabilities": [],
   "DamageResistances": [
-    "cold", "fire", "lightning", "\tbludgeoning,\t\npiercing,\tand\tslashing\tfrom\tnonmagical\tattacks"
+    "cold", "fire", "lightning", " bludgeoning, piercing, and slashing from nonmagical attacks"
   ],
   "DamageImmunities": ["poison"],
   "ConditionImmunities": [
@@ -59,26 +59,26 @@
   "Challenge": "8 (3 900 XP)",
   "Traits": [
     {
-      "Name": "Magic\tResistance",
-      "Content": "The\thezrou\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects"
+      "Name": "Magic Resistance",
+      "Content": "The hezrou has advantage on saving throws against spells and other magical effects"
     },
     {
       "Name": "Stench",
-      "Content": "Any\tcreature\tthat\tstarts\tits\tturn\twithin\t10\tfeet\t\nof\tthe\thezrou\tmust\tsucceed\ton\ta\tDC\t14\tConstitution\t\nsaving\tthrow\tor\tbe\tpoisoned\tuntil\tthe\tstart\tof\tits\tnext\t\nturn.\tOn\ta\tsuccessful\tsaving\tthrow,\tthe\tcreature\tis\t\nimmune\tto\tthe\thezrou’s\tstench\tfor\t24\thours."
+      "Content": "Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou’s stench for 24 hours."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\thezrou\tmakes\tthree\tattacks:\tone\twith\t\nits\tbite\tand\ttwo\twith\tits\tclaws"
+      "Content": "The hezrou makes three attacks: one with its bite and two with its claws"
     },
     {
       "Name": "Bite",
-      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach 5\tft.,\tone\t\ntarget.\tHit:\t15\t(2d10\t+\t4)\tpiercing\tdamage.\n"
+      "Content": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage."
     },
     {
       "Name": "Claw",
-      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 11\t(2d6\t+\t4)\tslashing\tdamage."
+      "Content": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
     }
   ],
   "BonusActions": [

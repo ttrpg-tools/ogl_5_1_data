@@ -4,7 +4,7 @@
     "demon", "fiend"
   ],
   "Source": "",
-  "Type": "Small\tfiend\t(demon),\tchaotic\tevil",
+  "Type": "Small fiend (demon), chaotic evil",
   "HP": {
     "Value": 18,
     "Notes": "(4d6 + 4)"
@@ -50,19 +50,19 @@
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tdretch\tmakes\ttwo\tattacks:\tone\twith\t\nits\tbite\tand\tone\twith\tits\tclaws."
+      "Content": "The dretch makes two attacks: one with its bite and one with its claws."
     },
     {
       "Name": "Bite",
-      "Content": "Melee\tWeapon\tAttack: +2\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit:\t3\t(1d6)\tpiercing\tdamage."
+      "Content": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage."
     },
     {
       "Name": "Claws",
-      "Content": "Melee\tWeapon\tAttack: +2\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 5\t(2d4)\tslashing\tdamage."
+      "Content": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage."
     },
     {
-      "Name": "Fetid\tCloud\t(1/Day)",
-      "Content": "A\t10-foot\tradius\tof\tdisgusting\t\ngreen\tgas\textends\tout\tfrom\tthe\tdretch.\tThe\tgas\tspreads\t\naround\tcorners,\tand\tits\tarea\tis\tlightly\tobscured.\tIt\tlasts\t\nfor\t1\tminute\tor\tuntil\ta\tstrong\twind\tdisperses\tit.\tAny\t\ncreature\tthat\tstarts\tits\tturn\tin\tthat\tarea\tmust\tsucceed\t\non\ta\tDC\t11\tConstitution\tsaving\tthrow\tor\tbe\tpoisoned\t\nuntil\tthe\tstart\tof\tits\tnext\tturn.\tWhile\tpoisoned\tin\tthis\t\nway,\tthe\ttarget\tcan\ttake\teither\tan\taction\tor\ta\tbonus\t\naction\ton\tits\tturn,\tnot\tboth,\tand\tcan’t\ttake\treactions."
+      "Name": "Fetid Cloud (1/Day)",
+      "Content": "A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can’t take reactions."
     }
   ],
   "BonusActions": [

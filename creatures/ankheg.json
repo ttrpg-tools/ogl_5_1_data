@@ -4,7 +4,7 @@
     "monstrosity"
   ],
   "Source": "",
-  "Type": "Large\tmonstrosity,\tunaligned",
+  "Type": "Large monstrosity, unaligned",
   "HP": {
     "Value": 39,
     "Notes": "(6d10 + 6)"
@@ -47,11 +47,11 @@
   "Actions": [
     {
       "Name": "Bite",
-      "Content": "Melee\tWeapon\tAttack: +5\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 10\t(2d6\t+\t3)\tslashing\tdamage\tplus\t3\t(1d6)\t\nacid\tdamage.\tIf\tthe\ttarget\tis\ta\tLarge\tor\tsmaller\tcreature,\t\nit\tis\tgrappled\t(escape\tDC\t13).\tUntil\tthis\tgrapple\tends,\t\nthe\tankheg\tcan\tbite\tonly\tthe\tgrappled creature\tand\thas\t\nadvantage\ton\tattack\trolls\tto\tdo\tso."
+      "Content": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so."
     },
     {
-      "Name": "Acid\tSpray\t(Recharge\t6)",
-      "Content": "\tThe\tankheg\tspits\tacid\tin\ta\tline\t\nthat\tis\t30\tfeet\tlong\tand\t5\tfeet\twide,\tprovided\tthat\tit\thas\t\nno\tcreature\tgrappled.\tEach\tcreature\tin\tthat\tline\tmust\t\nmake\ta\tDC\t13\tDexterity\tsaving\tthrow,\ttaking\t10\t(3d6)\t\nacid\tdamage\ton\ta\tfailed\tsave,\tor\thalf\tas\tmuch\tdamage\t\non\ta\tsuccessful\tone."
+      "Name": "Acid Spray (Recharge 6)",
+      "Content": " The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one."
     }
   ],
   "BonusActions": [

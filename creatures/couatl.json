@@ -4,7 +4,7 @@
     "celestial"
   ],
   "Source": "",
-  "Type": "Medium\tcelestial,\tlawful\tgood",
+  "Type": "Medium celestial, lawful good",
   "HP": {
     "Value": 97,
     "Notes": "(13d8 + 39)"
@@ -30,7 +30,7 @@
   "DamageResistances": [
     "radiant"
   ],
-  "DamageImmunities": ["psychic", "bludgeoning,\tpiercing,\t\nand\tslashing\tfrom\tnonmagical\tattacks"],
+  "DamageImmunities": ["psychic", "bludgeoning, piercing, and slashing from nonmagical attacks"],
   "ConditionImmunities": [
   ],
   "Saves": [
@@ -58,30 +58,30 @@
   "Challenge": "4 (1 100 XP)",
   "Traits": [
     {
-      "Name": "Innate\tSpellcasting",
-      "Content": "The\tcouatl’s\tspellcasting\tability\tis\t\nCharisma\t(spell\tsave\tDC\t14).\tIt\tcan\tinnately\tcast\tthe\t\nfollowing\tspells,\trequiring\tonly\tverbal\tcomponents:\nAt\twill:\tdetect\tevil\tand\tgood,\tdetect\tmagic,\tdetect\t\nthoughts\n3/day\teach:\tbless,\tcreate\tfood\tand\twater,\tcure\twounds,\t\nlesser\trestoration,\tprotection\tfrom\tpoison,\tsanctuary,\t\nshield\n1/day\teach:\tdream,\tgreater\trestoration,\tscrying"
+      "Name": "Innate Spellcasting",
+      "Content": "The couatl’s spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:At will: detect evil and good, detect magic, detect thoughts3/day each: bless, create food and water, cure wounds, lesser restoration, protection from poison, sanctuary, shield1/day each: dream, greater restoration, scrying"
     },
     {
-      "Name": "Magic\tWeapons",
-      "Content": "The\tcouatl’s\tweapon\tattacks\tare\t\nmagical."
+      "Name": "Magic Weapons",
+      "Content": "The couatl’s weapon attacks are magical."
     },
     {
-      "Name": "Shielded\tMind",
-      "Content": "The\tcouatl\tis\timmune\tto\tscrying\tand\tto\t\nany\teffect\tthat\twould\tsense\tits\temotions,\tread\tits\t\nthoughts,\tor\tdetect\tits\tlocation."
+      "Name": "Shielded Mind",
+      "Content": "The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location."
     }
   ],
   "Actions": [
     {
       "Name": "Bite",
-      "Content": "Melee\tWeapon\tAttack: +8\tto\thit,\treach\t5\tft.,\tone\t\ncreature.\tHit: 8\t(1d6\t+\t5)\tpiercing\tdamage,\tand\tthe\t\ntarget\tmust\tsucceed\ton\ta\tDC\t13\tConstitution\tsaving\t\nthrow\tor\tbe\tpoisoned\tfor\t24\thours.\tUntil\tthis\tpoison\t\nends,\tthe\ttarget\tis\tunconscious.\tAnother\tcreature\tcan\t\nuse\tan\taction\tto\tshake\tthe\ttarget\tawake."
+      "Content": "Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake."
     },
     {
       "Name": "Constrict",
-      "Content": "\tMelee\tWeapon\tAttack: +6\tto\thit,\treach\t10\tft.,\t\none\tMedium\tor\tsmaller\tcreature.\tHit: 10\t(2d6\t+\t3)\t\nbludgeoning\tdamage,\tand\tthe\ttarget\tis\tgrappled\t\n(escape\tDC\t15).\tUntil\tthis\tgrapple\tends,\tthe\ttarget\tis\t\nrestrained,\tand\tthe\tcouatl\tcan’t\tconstrict\tanother\t\ntarget."
+      "Content": " Melee Weapon Attack: +6 to hit, reach 10 ft., one Medium or smaller creature. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can’t constrict another target."
     },
     {
-      "Name": "Change\tShape",
-      "Content": "The\tcouatl\tmagically\tpolymorphs\tinto\ta\t\nhumanoid\tor\tbeast\tthat\thas\ta\tchallenge\trating\tequal\tto\t\nor\tless\tthan\tits\town,\tor\tback\tinto\tits\ttrue\tform.\tIt\t\nreverts\tto\tits\ttrue\tform\tif\tit\tdies.\tAny\tequipment\tit\tis\t\nwearing\tor\tcarrying\tis\tabsorbed\tor\tborne\tby\tthe\tnew\t\nform\t(the\tcouatl’s\tchoice).\nIn\ta\tnew\tform,\tthe\tcouatl\tretains\tits\tgame\tstatistics\t\nand\tability\tto\tspeak,\tbut\tits\tAC,\tmovement\tmodes,\t\nStrength,\tDexterity,\tand\tother\tactions\tare\treplaced\tby\t\nthose\tof\tthe\tnew\tform,\tand\tit\tgains\tany\tstatistics\tand\t\ncapabilities\t(except\tclass\tfeatures,\tlegendary\tactions,\t\nand\tlair\tactions)\tthat\tthe\tnew\tform\thas\tbut\tthat\tit\tlacks.\t\nIf\tthe\tnew\tform\thas\ta\tbite\tattack,\tthe\tcouatl\tcan\tuse\tits\t\nbite\tin\tthat\tform."
+      "Name": "Change Shape",
+      "Content": "The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl’s choice).In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form."
     }
   ],
   "BonusActions": [

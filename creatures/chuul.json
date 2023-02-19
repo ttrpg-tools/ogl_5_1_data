@@ -4,7 +4,7 @@
     "aberration"
   ],
   "Source": "",
-  "Type": "Large\taberration,\tchaotic\tevil",
+  "Type": "Large aberration, chaotic evil",
   "HP": {
     "Value": 93,
     "Notes": "(11d10 + 33)"
@@ -50,25 +50,25 @@
   "Traits": [
     {
       "Name": "Amphibious",
-      "Content": "The\tchuul\tcan\tbreathe\tair\tand\twater"
+      "Content": "The chuul can breathe air and water"
     },
     {
-      "Name": "Sense\tMagic",
-      "Content": "The\tchuul\tsenses\tmagic\twithin\t120\tfeet\t\nof\tit\tat\twill.\tThis\ttrait\totherwise\tworks\tlike\tthe\tdetect\t\nmagic spell\tbut\tisn’t\titself\tmagical."
+      "Name": "Sense Magic",
+      "Content": "The chuul senses magic within 120 feet of it at will. This trait otherwise works like the detect magic spell but isn’t itself magical."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tchuul\tmakes\ttwo\tpincer\tattacks.\tIf\tthe\t\nchuul\tis\tgrappling\ta\tcreature,\tthe\tchuul can\talso\tuse\tits\t\ntentacles\tonce."
+      "Content": "The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once."
     },
     {
       "Name": "Pincer",
-      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit: 11\t(2d6\t+\t4)\tbludgeoning\tdamage.\tThe\t\ntarget\tis\tgrappled\t(escape\tDC\t14)\tif\tit\tis\ta\tLarge\tor\t\nsmaller\tcreature\tand\tthe\tchuul\tdoesn’t\thave\ttwo\tother\t\ncreatures\tgrappled."
+      "Content": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn’t have two other creatures grappled."
     },
     {
       "Name": "Tentacles",
-      "Content": "One\tcreature\tgrappled\tby\tthe\tchuul\tmust\t\nsucceed\ton\ta\tDC\t13\tConstitution\tsaving\tthrow\tor\tbe\t\npoisoned\tfor\t1\tminute.\tUntil\tthis\tpoison\tends,\tthe\t\ntarget\tis\tparalyzed.\tThe\ttarget\tcan\trepeat\tthe\tsaving\t\nthrow\tat\tthe\tend\tof\teach\tof\tits\tturns,\tending\tthe\teffect\t\non\titself\ton\ta\tsuccess."
+      "Content": "One creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
     }
   ],
   "BonusActions": [

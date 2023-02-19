@@ -4,7 +4,7 @@
     "angel", "celestial"
   ],
   "Source": "",
-  "Type": "Large\tcelestial,\tlawful\tgood\t\n",
+  "Type": "Large celestial, lawful good ",
   "HP": {
     "Value": 200,
     "Notes": "(16d10 + 112)"
@@ -28,7 +28,7 @@
   },
   "DamageVulnerabilities": [],
   "DamageResistances": [
-    "radiant", "bludgeoning,\tpiercing,\t\nand\tslashing\tfrom\tnonmagical\tattacks"
+    "radiant", "bludgeoning, piercing, and slashing from nonmagical attacks"
   ],
   "DamageImmunities": [],
   "ConditionImmunities": [
@@ -63,34 +63,34 @@
   "Challenge": "16 (15 000 XP)",
   "Traits": [
     {
-      "Name": "Angelic\tWeapons",
-      "Content": "The\tplanetar’s\tweapon\tattacks\tare\t\nmagical.\tWhen\tthe\tplanetar\thits\twith\tany\tweapon,\tthe\t\nweapon\tdeals\tan\textra\t5d8\tradiant\tdamage\t(included\tin\t\nthe\tattack)."
+      "Name": "Angelic Weapons",
+      "Content": "The planetar’s weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack)."
     },
     {
-      "Name": "Divine\tAwareness",
-      "Content": "The\tplanetar\tknows\tif\tit\thears\ta\tlie."
+      "Name": "Divine Awareness",
+      "Content": "The planetar knows if it hears a lie."
     },
     {
-      "Name": "Innate\tSpellcasting",
-      "Content": "The\tplanetar’s\tspellcasting\tability\t\nis\tCharisma\t(spell\tsave\tDC\t20).\tThe\tplanetar\tcan\t\ninnately\tcast\tthe\tfollowing\tspells,\trequiring\tno\tmaterial\t\ncomponents:\nAt will:\tdetect\tevil\tand\tgood,\tinvisibility\t(self\tonly)\n3/day\teach:\tblade\tbarrier,\tdispel\tevil\tand\tgood,\tflame\t\nstrike,\traise\tdead\n1/day\teach:\tcommune,\tcontrol\tweather,\tinsect\tplague"
+      "Name": "Innate Spellcasting",
+      "Content": "The planetar’s spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:At will: detect evil and good, invisibility (self only)3/day each: blade barrier, dispel evil and good, flame strike, raise dead1/day each: commune, control weather, insect plague"
     },
     {
-      "Name": "Magic\tResistance",
-      "Content": "The\tplanetar\thas\tadvantage\ton\t\nsaving\tthrows\tagainst\tspells and\tother\tmagical\teffects."
+      "Name": "Magic Resistance",
+      "Content": "The planetar has advantage on saving throws against spells and other magical effects."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tplanetar\tmakes\ttwo\tmelee\tattacks"
+      "Content": "The planetar makes two melee attacks"
     },
     {
       "Name": "Greatsword",
-      "Content": "Melee\tWeapon\tAttack: +12\tto\thit,\treach\t5\t\nft.,\tone\ttarget.\tHit: 21\t(4d6\t+\t7)\tslashing\tdamage\tplus\t\n22\t(5d8)\tradiant\tdamage."
+      "Content": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage."
     },
     {
-      "Name": "Healing\tTouch\t(4/Day)",
-      "Content": "The\tplanetar touches\tanother\t\ncreature.\tThe\ttarget\tmagically\tregains\t30\t(6d8\t+\t3)\thit\t\npoints\tand\tis\tfreed\tfrom\tany\tcurse,\tdisease,\tpoison,\t\nblindness,\tor\tdeafness."
+      "Name": "Healing Touch (4/Day)",
+      "Content": "The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness."
     }
   ],
   "BonusActions": [

@@ -4,7 +4,7 @@
     "fiend", "demon"
   ],
   "Source": "",
-  "Type": "Large\tfiend\t(demon),\tchaotic\tevil",
+  "Type": "Large fiend (demon), chaotic evil",
   "HP": {
     "Value": 184,
     "Notes": "(16d10 + 96)"
@@ -28,7 +28,7 @@
   },
   "DamageVulnerabilities": [],
   "DamageResistances": [
-    "cold", "fire", "lightning", "bludgeoning,\t\npiercing,\tand\tslashing\tfrom\tnonmagical\tattacks"
+    "cold", "fire", "lightning", "bludgeoning, piercing, and slashing from nonmagical attacks"
   ],
   "DamageImmunities": ["poison"],
   "ConditionImmunities": [
@@ -67,30 +67,30 @@
   "Challenge": "13 (10 000 XP)",
   "Traits": [
     {
-      "Name": "Magic\tResistance",
-      "Content": "The nalfeshnee\thas\tadvantage\ton\t\nsaving\tthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+      "Name": "Magic Resistance",
+      "Content": "The nalfeshnee has advantage on saving throws against spells and other magical effects."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tnalfeshnee\tuses\tHorror\tNimbus\tif\tit\t\ncan.\tIt\tthen\tmakes\tthree\tattacks:\tone\twith\tits\tbite\tand\t\ntwo\twith\tits\tclaws."
+      "Content": "The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws."
     },
     {
       "Name": "Bite",
-      "Content": "Melee\tWeapon\tAttack: +10\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 32\t(5d10\t+\t5)\tpiercing\tdamage."
+      "Content": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 32 (5d10 + 5) piercing damage."
     },
     {
       "Name": "Claw",
-      "Content": "Melee\tWeapon\tAttack: +10\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit: 15\t(3d6\t+\t5)\tslashing\tdamage."
+      "Content": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage."
     },
     {
-      "Name": "Horror\tNimbus\t(Recharge\t5–6)",
-      "Content": "The\tnalfeshnee\t\nmagically\temits\tscintillating,\tmulticolored\tlight.\tEach\t\ncreature\twithin\t15\tfeet\tof\tthe\tnalfeshnee\tthat\tcan\tsee\t\nthe\tlight\tmust\tsucceed\ton\ta\tDC\t15\tWisdom\tsaving\t\nthrow\tor\tbe\tfrightened\tfor\t1\tminute.\tA\tcreature\tcan\t\nrepeat\tthe\tsaving\tthrow\tat\tthe\tend\tof\teach\tof\tits\tturns,\t\nending\tthe\teffect\ton\titself\ton\ta\tsuccess.\tIf\ta\tcreature’s\t\nsaving\tthrow\tis\tsuccessful\tor\tthe\teffect\tends\tfor\tit,\tthe\t\nNot\tfor\tresale.\tPermission\tgranted\tto\tprint\tor\tphotocopy\tthis\tdocument\tfor\tpersonal\tuse\tonly. System\tReference\tDocument\t5.1 273\ncreature\tis\timmune\tto\tthe\tnalfeshnee’s\tHorror\tNimbus\t\nfor\tthe\tnext\t24\thours."
+      "Name": "Horror Nimbus (Recharge 5–6)",
+      "Content": "The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 273creature is immune to the nalfeshnee’s Horror Nimbus for the next 24 hours."
     },
     {
       "Name": "Teleport",
-      "Content": "The\tnalfeshnee\tmagically\tteleports,\talong\t\nwith\tany\tequipment\tit\tis\twearing\tor\tcarrying,\tup\tto\t120\t\nfeet\tto\tan\tunoccupied\tspace\tit\tcan\tsee."
+      "Content": "The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see."
     }
   ],
   "BonusActions": [

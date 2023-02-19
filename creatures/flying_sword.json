@@ -4,7 +4,7 @@
     "animated object", "construct"
   ],
   "Source": "",
-  "Type": "Small\tconstruct,\tunaligned",
+  "Type": "Small construct, unaligned",
   "HP": {
     "Value": 17,
     "Notes": "(5d6)"
@@ -49,18 +49,18 @@
   "Challenge": "1/4 (50 XP)",
   "Traits": [
     {
-      "Name": "Antimagic\tSusceptibility",
-      "Content": "The\tsword\tis\tincapacitated\t\nwhile\tin\tthe\tarea\tof\tan\tantimagic\tfield. If\ttargeted\tby\t\ndispel\tmagic,\tthe\tsword\tmust\tsucceed\ton\ta\t\nConstitution\tsaving\tthrow\tagainst\tthe\tcaster’s\tspell\t\nsave\tDC\tor\tfall\tunconscious\tfor\t1\tminute."
+      "Name": "Antimagic Susceptibility",
+      "Content": "The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute."
     },
     {
-      "Name": "False\tAppearance",
-      "Content": "While\tthe\tsword\tremains\t\nmotionless\tand\tisn’t\tflying,\tit\tis\tindistinguishable\tfrom\ta\t\nnormal\tsword."
+      "Name": "False Appearance",
+      "Content": "While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword."
     }
   ],
   "Actions": [
     {
       "Name": "Longsword",
-      "Content": "Melee\tWeapon\tAttack: +3\tto\thit,\treach\t5\tft.,\t\none\ttarget.\tHit: 5\t(1d8\t+\t1)\tslashing\tdamage."
+      "Content": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage."
     }
   ],
   "BonusActions": [

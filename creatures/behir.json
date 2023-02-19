@@ -4,7 +4,7 @@
     "montrosity"
   ],
   "Source": "",
-  "Type": "Huge\tmonstrosity,\tneutral\tevil\t",
+  "Type": "Huge monstrosity, neutral evil ",
   "HP": {
     "Value": 168,
     "Notes": "(16d12 + 64)"
@@ -56,23 +56,23 @@
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tbehir\tmakes\ttwo\tattacks:\tone\twith\tits\t\nbite\tand\tone\tto\tconstrict."
+      "Content": "The behir makes two attacks: one with its bite and one to constrict."
     },
     {
       "Name": "Bite",
-      "Content": "Melee\tWeapon\tAttack: +10\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit: 22\t(3d10\t+\t6)\tpiercing\tdamage."
+      "Content": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) piercing damage."
     },
     {
       "Name": "Constrict",
-      "Content": "Melee\tWeapon\tAttack: +10\tto\thit,\treach\t5\tft.,\t\none\tLarge\tor\tsmaller\tcreature.\tHit: 17\t(2d10\t+\t6)\t\nbludgeoning\tdamage\tplus\t17\t(2d10\t+\t6)\tslashing\t\ndamage.\tThe\ttarget\tis\tgrappled\t(escape\tDC\t16)\tif\tthe\t\nbehir\tisn’t\talready\tconstricting\ta\tcreature,\tand\tthe\t\ntarget\tis\trestrained\tuntil\tthis\tgrapple\tends."
+      "Content": "Melee Weapon Attack: +10 to hit, reach 5 ft., one Large or smaller creature. Hit: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn’t already constricting a creature, and the target is restrained until this grapple ends."
     },
     {
-      "Name": "Lightning\tBreath\t(Recharge\t5–6)",
-      "Content": "The\tbehir\texhales\ta\t\nline\tof\tlightning\tthat\tis\t20\tfeet\tlong\tand\t5\tfeet\twide.\t\nEach\tcreature\tin\tthat\tline\tmust\tmake\ta\tDC\t16\tDexterity\t\nsaving\tthrow,\ttaking\t66\t(12d10)\tlightning\tdamage\ton\ta\t\nfailed\tsave,\tor\thalf\tas\tmuch\tdamage\ton\ta\tsuccessful\tone."
+      "Name": "Lightning Breath (Recharge 5–6)",
+      "Content": "The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one."
     },
     {
       "Name": "Swallow",
-      "Content": "The\tbehir\tmakes\tone\tbite\tattack\tagainst\ta\t\nMedium\tor\tsmaller\ttarget\tit\tis\tgrappling.\tIf\tthe\tattack\t\nhits,\tthe\ttarget\tis\talso\tswallowed,\tand\tthe\tgrapple\tends.\t\nWhile\tswallowed,\tthe\ttarget\tis\tblinded\tand\trestrained,\t\nit\thas\ttotal\tcover\tagainst\tattacks\tand\tother\teffects\t\noutside\tthe\tbehir,\tand\tit\ttakes\t21\t(6d6)\tacid\tdamage\tat\t\nthe\tstart\tof\teach\tof\tthe\tbehir’s\tturns.\tA\tbehir\tcan\thave\t\nonly\tone\tcreature\tswallowed\tat\ta\ttime.\nIf\tthe\tbehir\ttakes\t30\tdamage\tor\tmore\ton\ta\tsingle\tturn\t\nfrom\tthe\tswallowed\tcreature,\tthe\tbehir\tmust\tsucceed\t\non\ta\tDC\t14\tConstitution\tsaving\tthrow\tat\tthe\tend\tof\tthat\t\nturn\tor\tregurgitate\tthe\tcreature,\twhich\tfalls\tprone\tin\ta\t\nspace\twithin\t10\tfeet\tof\tthe\tbehir. If\tthe\tbehir\tdies,\ta\t\nswallowed\tcreature\tis\tno\tlonger\trestrained\tby\tit\tand\tcan\t\nescape\tfrom\tthe\tcorpse\tby\tusing\t15\tfeet\tof\tmovement,\t\nexiting\tprone."
+      "Content": "The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir’s turns. A behir can have only one creature swallowed at a time.If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone."
     }
   ],
   "BonusActions": [

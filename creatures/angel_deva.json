@@ -4,7 +4,7 @@
     "angel", "celestial"
   ],
   "Source": "",
-  "Type": "Medium\tcelestial,\tlawful\tgood",
+  "Type": "Medium celestial, lawful good",
   "HP": {
     "Value": 136,
     "Notes": "(16d8 + 64)"
@@ -62,34 +62,34 @@
   "Challenge": "10 (5 900 XP)",
   "Traits": [
     {
-      "Name": "Angelic\tWeapons",
-      "Content": ". The\tdeva’s\tweapon\tattacks\tare\t\nmagical.\tWhen\tthe\tdeva\thits\twith\tany\tweapon,\tthe\nweapon\tdeals\tan\textra\t4d8\tradiant\tdamage\t(included\tin\t\nthe\tattack)."
+      "Name": "Angelic Weapons",
+      "Content": ". The deva’s weapon attacks are magical. When the deva hits with any weapon, theweapon deals an extra 4d8 radiant damage (included in the attack)."
     },
     {
-      "Name": "Innate\tSpellcasting",
-      "Content": "The\tdeva’s\tspellcasting\tability\tis\t\nCharisma\t(spell\tsave\tDC\t17).\tThe\tdeva\tcan\tinnately\tcast\t\nthe\tfollowing\tspells,\trequiring\tonly\tverbal\tcomponents:\nAt\twill:\tdetect\tevil and\tgood\n1/day\teach:\tcommune,\traise\tdead"
+      "Name": "Innate Spellcasting",
+      "Content": "The deva’s spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:At will: detect evil and good1/day each: commune, raise dead"
     },
     {
-      "Name": "Magic\tResistance",
-      "Content": "The\tdeva\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+      "Name": "Magic Resistance",
+      "Content": "The deva has advantage on saving throws against spells and other magical effects."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tdeva\tmakes\ttwo\tmelee\tattacks."
+      "Content": "The deva makes two melee attacks."
     },
     {
       "Name": "Mace",
-      "Content": "Melee\tWeapon\tAttack: +8\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 7\t(1d6\t+\t4)\tbludgeoning\tdamage\tplus\t18\t\n(4d8)\tradiant\tdamage."
+      "Content": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage."
     },
     {
-      "Name": "Healing\tTouch\t(3/Day)",
-      "Content": "The\tdeva\ttouches\tanother\t\ncreature.\tThe\ttarget\tmagically\tregains\t20\t(4d8\t+\t2)\thit\t\npoints\tand\tis\tfreed\tfrom\tany\tcurse,\tdisease,\tpoison,\t\nblindness,\tor\tdeafness"
+      "Name": "Healing Touch (3/Day)",
+      "Content": "The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness"
     },
     {
-      "Name": "Change\tShape",
-      "Content": "The\tdeva\tmagically\tpolymorphs\tinto\ta\t\nhumanoid\tor\tbeast\tthat\thas\ta\tchallenge\trating\tequal\tto\t\nor\tless\tthan\tits\town,\tor\tback\tinto\tits\ttrue\tform.\tIt\t\nreverts\tto\tits\ttrue\tform\tif\tit\tdies.\tAny\tequipment\tit\tis\t\nwearing\tor\tcarrying\tis\tabsorbed\tor\tborne\tby\tthe\tnew\t\nform\t(the\tdeva’s\tchoice).\nIn\ta\tnew\tform,\tthe\tdeva\tretains\tits\tgame\tstatistics\t\nand\tability\tto\tspeak,\tbut\tits\tAC,\tmovement\tmodes,\t\nStrength,\tDexterity,\tand\tspecial\tsenses\tare\treplaced\tby\t\nthose\tof\tthe\tnew\tform,\tand\tit\tgains\tany\tstatistics\tand\t\ncapabilities\t(except\tclass\tfeatures,\tlegendary\tactions,\t\nand\tlair\tactions)\tthat\tthe\tnew\tform\thas\tbut\tthat\tit\tlacks."
+      "Name": "Change Shape",
+      "Content": "The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva’s choice).In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks."
     }
   ],
   "BonusActions": [

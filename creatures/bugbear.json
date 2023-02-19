@@ -4,7 +4,7 @@
     "humanoid", "goblinoid"
   ],
   "Source": "",
-  "Type": "Medium\thumanoid\t(goblinoid),\tchaotic\tevil",
+  "Type": "Medium humanoid (goblinoid), chaotic evil",
   "HP": {
     "Value": 27,
     "Notes": "(5d8 + 5)"
@@ -54,21 +54,21 @@
   "Traits": [
     {
       "Name": "Brute",
-      "Content": "A\tmelee\tweapon\tdeals\tone\textra\tdie\tof\tits\tdamage\t\nwhen\tthe\tbugbear\thits\twith\tit\t(included\tin\tthe\tattack)."
+      "Content": "A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack)."
     },
     {
-      "Name": "Surprise\tAttack",
-      "Content": ". If\tthe\tbugbear\tsurprises\ta\tcreature\tand\t\nhits\tit\twith\tan\tattack\tduring\tthe\tfirst round\tof\tcombat,\t\nthe\ttarget\ttakes\tan\textra\t7\t(2d6)\tdamage\tfrom\tthe\t\nattack."
+      "Name": "Surprise Attack",
+      "Content": ". If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack."
     }
   ],
   "Actions": [
     {
       "Name": "Morningstar",
-      "Content": "Melee\tWeapon\tAttack: +4\tto\thit,\treach\t5\t\nft.,\tone\ttarget.\tHit: 11\t(2d8\t+\t2)\tpiercing\tdamage"
+      "Content": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage"
     },
     {
       "Name": "Javelin",
-      "Content": "Melee\tor\tRanged\tWeapon\tAttack: +4\tto\thit,\t\nreach\t5\tft.\tor\trange\t30/120\tft.,\tone\ttarget.\tHit: 9\t(2d6\t+\t\n2)\tpiercing\tdamage\tin\tmelee\tor\t5\t(1d6\t+\t2)\tpiercing\t\ndamage\tat\trange."
+      "Content": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range."
     }
   ],
   "BonusActions": [

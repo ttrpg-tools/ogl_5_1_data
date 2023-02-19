@@ -4,7 +4,7 @@
     "demon", "fiend"
   ],
   "Source": "",
-  "Type": "Large\tfiend\t(demon),\tchaotic\tevil",
+  "Type": "Large fiend (demon), chaotic evil",
   "HP": {
     "Value": 157,
     "Notes": "(15d10 + 75)"
@@ -28,7 +28,7 @@
   },
   "DamageVulnerabilities": [],
   "DamageResistances": [
-    "cold", "fire", "lightning", "bludgeoning,\t\npiercing,\tand\tslashing\tfrom\tnonmagical\tattacks"
+    "cold", "fire", "lightning", "bludgeoning, piercing, and slashing from nonmagical attacks"
   ],
   "DamageImmunities": ["poison"],
   "ConditionImmunities": [
@@ -63,26 +63,26 @@
   "Challenge": "9 (5 000 XP)",
   "Traits": [
     {
-      "Name": "Innate\tSpellcasting",
-      "Content": "The\tglabrezu’s\tspellcasting\tability\t\nis\tIntelligence\t(spell\tsave\tDC\t16).\tThe\tglabrezu\tcan\t\ninnately\tcast\tthe\tfollowing\tspells,\trequiring\tno\tmaterial\t\ncomponents:\nAt\twill:\tdarkness,\tdetect\tmagic,\tdispel\tmagic\n1/day\teach:\tconfusion,\tfly,\tpower\tword\tstun"
+      "Name": "Innate Spellcasting",
+      "Content": "The glabrezu’s spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:At will: darkness, detect magic, dispel magic1/day each: confusion, fly, power word stun"
     },
     {
-      "Name": "Magic\tResistance",
-      "Content": "The\tglabrezu\thas\tadvantage\ton\t\nsaving\tthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+      "Name": "Magic Resistance",
+      "Content": "The glabrezu has advantage on saving throws against spells and other magical effects."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tglabrezu\tmakes\tfour\tattacks:\ttwo\twith\t\nits\tpincers\tand\ttwo\twith\tits\tfists.\tAlternatively,\tit\tmakes\t\ntwo\tattacks\twith\tits\tpincers\tand\tcasts\tone\tspell."
+      "Content": "The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell."
     },
     {
       "Name": "Pincer",
-      "Content": "Melee\tWeapon\tAttack: +9\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit: 16\t(2d10\t+\t5)\tbludgeoning\tdamage.\tIf\t\nthe\ttarget\tis\ta\tMedium\tor\tsmaller\tcreature,\tit\tis\t\ngrappled\t(escape\tDC\t15).\tThe\tglabrezu\thas\ttwo\tpincers,\t\neach\tof\twhich\tcan\tgrapple\tonly\tone\ttarget."
+      "Content": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target."
     },
     {
       "Name": "Fist",
-      "Content": "Melee\tWeapon\tAttack: +9\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit:\t7\t(2d4\t+\t2)\tbludgeoning\tdamage."
+      "Content": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage."
     }
   ],
   "BonusActions": [

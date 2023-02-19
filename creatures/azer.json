@@ -4,7 +4,7 @@
     "elemental"
   ],
   "Source": "",
-  "Type": "Medium\telemental,\tlawful\tneutral",
+  "Type": "Medium elemental, lawful neutral",
   "HP": {
     "Value": 39,
     "Notes": "(6d8 + 12)"
@@ -54,22 +54,22 @@
   "Challenge": "2 (450 XP)",
   "Traits": [
     {
-      "Name": "Heated\tBody",
-      "Content": "A\tcreature\tthat\ttouches\tthe\tazer\tor\thits\tit\t\nwith\ta\tmelee\tattack\twhile\twithin\t5\tfeet\tof\tit\ttakes\t5\t\n(1d10)\tfire\tdamage."
+      "Name": "Heated Body",
+      "Content": "A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage."
     },
     {
-      "Name": "Heated\tWeapons",
-      "Content": "When\tthe\tazer\thits\twith\ta\tmetal\t\nmelee\tweapon,\tit\tdeals\tan\textra\t3\t(1d6)\tfire\tdamage\t\n(included\tin\tthe\tattack)."
+      "Name": "Heated Weapons",
+      "Content": "When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack)."
     },
     {
       "Name": "Illumination",
-      "Content": "The\tazer\tsheds\tbright\tlight\tin\ta\t10-foot\t\nradius\tand\tdim\tlight\tfor\tan\tadditional\t10\tfeet."
+      "Content": "The azer sheds bright light in a 10-foot radius and dim light for an additional 10 feet."
     }
   ],
   "Actions": [
     {
       "Name": "Warhammer",
-      "Content": "\tMelee\tWeapon\tAttack: +5\tto\thit,\treach\t5\t\nft.,\tone\ttarget.\tHit: 7\t(1d8\t+\t3)\tbludgeoning\tdamage,\tor\t\n8\t(1d10\t+\t3)\tbludgeoning\tdamage\tif\tused\twith\ttwo\t\nhands\tto\tmake\ta\tmelee\tattack,\tplus\t3\t(1d6)\tfire\tdamage."
+      "Content": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage."
     }
   ],
   "BonusActions": [

@@ -4,7 +4,7 @@
     "monstrosity"
   ],
   "Source": "",
-  "Type": "Large\tmonstrosity,\tunaligned",
+  "Type": "Large monstrosity, unaligned",
   "HP": {
     "Value": 94,
     "Notes": "(9d10 + 45)"
@@ -48,18 +48,18 @@
   "Challenge": "5 (1 800 XP)",
   "Traits": [
     {
-      "Name": "Standing\tLeap",
-      "Content": "The\tbulette’s\tlong\tjump\tis\tup\tto\t30\tfeet\t\nand\tits\thigh\tjump\tis\tup to\t15\tfeet,\twith\tor\twithout\ta\t\nrunning\tstart."
+      "Name": "Standing Leap",
+      "Content": "The bulette’s long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start."
     }
   ],
   "Actions": [
     {
       "Name": "Bite",
-      "Content": "Melee\tWeapon\tAttack: +7\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 30\t(4d12\t+\t4)\tpiercing\tdamage."
+      "Content": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 30 (4d12 + 4) piercing damage."
     },
     {
-      "Name": "Deadly\tLeap",
-      "Content": "If\tthe\tbulette\tjumps\tat\tleast\t15\tfeet\tas\t\npart\tof\tits\tmovement,\tit\tcan\tthen\tuse\tthis\taction\tto\tland\t\non\tits\tfeet\tin\ta\tspace\tthat\tcontains\tone\tor\tmore\tother\t\ncreatures.\tEach\tof\tthose\tcreatures\tmust\tsucceed\ton\ta\t\nDC\t16\tStrength\tor\tDexterity\tsaving\tthrow\t(target’s\t\nchoice)\tor\tbe\tknocked\tprone\tand\ttake\t14\t(3d6\t+\t4)\t\nbludgeoning\tdamage\tplus\t14\t(3d6\t+\t4)\tslashing\t\ndamage.\tOn\ta\tsuccessful\tsave,\tthe\tcreature\ttakes\tonly\t\nhalf\tthe\tdamage,\tisn’t\tknocked\tprone,\tand\tis\tpushed\t5\t\nfeet\tout\tof\tthe\tbulette’s\tspace\tinto\tan\tunoccupied\t\nspace\tof\tthe\tcreature’s\tchoice.\tIf\tno\tunoccupied\tspace\t\nis\twithin\trange,\tthe\tcreature\tinstead\tfalls\tprone\tin\tthe\t\nbulette’s\tspace."
+      "Name": "Deadly Leap",
+      "Content": "If the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target’s choice) or be knocked prone and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage. On a successful save, the creature takes only half the damage, isn’t knocked prone, and is pushed 5 feet out of the bulette’s space into an unoccupied space of the creature’s choice. If no unoccupied space is within range, the creature instead falls prone in the bulette’s space."
     }
   ],
   "BonusActions": [

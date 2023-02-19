@@ -4,7 +4,7 @@
     "angel", "celestial"
   ],
   "Source": "",
-  "Type": "Large\tcelestial,\tlawful\tgood",
+  "Type": "Large celestial, lawful good",
   "HP": {
     "Value": 243,
     "Notes": "(18d10 + 144)"
@@ -28,7 +28,7 @@
   },
   "DamageVulnerabilities": [],
   "DamageResistances": [
-    "radiant", "bludgeoning,\tpiercing,\t\nand\tslashing\tfrom\tnonmagical\tattacks"
+    "radiant", "bludgeoning, piercing, and slashing from nonmagical attacks"
   ],
   "DamageImmunities": ["necrotic", "poison"],
   "ConditionImmunities": [
@@ -63,42 +63,42 @@
   "Challenge": "21 (33 000 XP)",
   "Traits": [
     {
-      "Name": "Angelic\tWeapons",
-      "Content": "The\tsolar’s\tweapon\tattacks\tare\t\nmagical.\tWhen\tthe\tsolar\thits\twith\tany\tweapon,\tthe\t\nweapon\tdeals\tan\textra\t6d8\tradiant\tdamage\t(included\tin\t\nthe\tattack)."
+      "Name": "Angelic Weapons",
+      "Content": "The solar’s weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack)."
     },
     {
-      "Name": "Divine\tAwareness",
-      "Content": "The\tsolar\tknows\tif\tit\thears\ta\tlie."
+      "Name": "Divine Awareness",
+      "Content": "The solar knows if it hears a lie."
     },
     {
-      "Name": "Innate\tSpellcasting",
-      "Content": "The\tsolar’s\tspellcasting\tability\tis\t\nCharisma\t(spell\tsave\tDC\t25).\tIt\tcan\tinnately\tcast\tthe\t\nfollowing\tspells,\trequiring\tno\tmaterial\tcomponents:\nAt\twill:\tdetect\tevil\tand\tgood,\tinvisibility\t(self\tonly)\n3/day\teach:\tblade\tbarrier,\tdispel\tevil\tand\tgood,\t\nresurrection\n1/day\teach:\tcommune,\tcontrol\tweather"
+      "Name": "Innate Spellcasting",
+      "Content": "The solar’s spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:At will: detect evil and good, invisibility (self only)3/day each: blade barrier, dispel evil and good, resurrection1/day each: commune, control weather"
     },
     {
-      "Name": "Magic\tResistance",
-      "Content": "The\tsolar\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+      "Name": "Magic Resistance",
+      "Content": "The solar has advantage on saving throws against spells and other magical effects."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\tsolar\tmakes\ttwo\tgreatsword\tattacks."
+      "Content": "The solar makes two greatsword attacks."
     },
     {
       "Name": "Greatsword",
-      "Content": "Melee\tWeapon\tAttack: +15\tto\thit,\treach\t5\t\nft.,\tone\ttarget.\tHit: 22\t(4d6\t+\t8)\tslashing\tdamage\tplus\t\n27\t(6d8)\tradiant\tdamage."
+      "Content": "Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) slashing damage plus 27 (6d8) radiant damage."
     },
     {
-      "Name": "Slaying\tLongbow",
-      "Content": "Ranged\tWeapon\tAttack: +13\tto\thit,\t\nrange\t150/600\tft.,\tone\ttarget.\tHit: 15\t(2d8\t+\t6)\tpiercing\t\ndamage\tplus\t27\t(6d8)\tradiant\tdamage.\tIf\tthe\ttarget\tis\ta\t\ncreature\tthat\thas\t100\thit\tpoints\tor\tfewer,\tit\tmust\t\nsucceed\ton\ta\tDC\t15\tConstitution\tsaving\tthrow\tor\tdie"
+      "Name": "Slaying Longbow",
+      "Content": "Ranged Weapon Attack: +13 to hit, range 150/600 ft., one target. Hit: 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die"
     },
     {
-      "Name": "Flying\tSword",
-      "Content": "The\tsolar\treleases\tits\tgreatsword\tto\t\nhover\tmagically\tin\tan\tunoccupied\tspace\twithin\t5\tfeet\tof\t\nit.\tIf\tthe\tsolar\tcan\tsee\tthe\tsword,\tthe\tsolar\tcan\tmentally\t\ncommand\tit\tas\ta\tbonus\taction\tto\tfly\tup\tto\t50\tfeet\tand\t\neither\tmake\tone attack\tagainst\ta\ttarget\tor\treturn\tto\tthe\t\nsolar’s\thands.\tIf\tthe\thovering\tsword\tis\ttargeted\tby\tany\t\neffect,\tthe\tsolar\tis\tconsidered\tto\tbe\tholding\tit.\tThe\t\nhovering\tsword\tfalls\tif\tthe\tsolar\tdies."
+      "Name": "Flying Sword",
+      "Content": "The solar releases its greatsword to hover magically in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar’s hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies."
     },
     {
-      "Name": "Healing\tTouch\t(4/Day)",
-      "Content": "The\tsolar\ttouches\tanother\t\ncreature.\tThe\ttarget\tmagically\tregains\t40\t(8d8\t+\t4)\thit\t\npoints\tand\tis\tfreed\tfrom\tany\tcurse,\tdisease,\tpoison,\t\nblindness,\tor\tdeafness."
+      "Name": "Healing Touch (4/Day)",
+      "Content": "The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness."
     }
   ],
   "BonusActions": [
@@ -108,15 +108,15 @@
   "LegendaryActions": [
     {
       "Name": "Teleport",
-      "Content": "The\tsolar\tmagically\tteleports,\talong\twith\tany\t\nequipment\tit\tis\twearing\tor\tcarrying,\tup\tto\t120\tfeet\tto\t\nan\tunoccupied\tspace\tit\tcan\tsee."
+      "Content": "The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see."
     },
     {
-      "Name": "Searing\tBurst\t(Costs\t2\tActions)",
-      "Content": "The\tsolar\temits\t\nmagical,\tdivine\tenergy.\tEach\tcreature\tof\tits\tchoice\tin\t\na\t10-foot\tradius\tmust\tmake\ta\tDC\t23\tDexterity\tsaving\t\nthrow,\ttaking\t14\t(4d6)\tfire\tdamage\tplus\t14\t(4d6)\t\nradiant\tdamage\ton\ta\tfailed\tsave,\tor\thalf\tas\tmuch\t\ndamage\ton\ta\tsuccessful\tone."
+      "Name": "Searing Burst (Costs 2 Actions)",
+      "Content": "The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one."
     },
     {
-      "Name": "Blinding\tGaze\t(Costs\t3\tActions)",
-      "Content": "The\tsolar\ttargets\tone\t\ncreature\tit\tcan\tsee\twithin\t30\tfeet\tof\tit.\tIf\tthe\ttarget\t\ncan\tsee\tit,\tthe\ttarget\tmust\tsucceed\ton\ta\tDC\t15\t\nConstitution\tsaving throw\tor\tbe\tblinded\tuntil\tmagic\t\nsuch\tas\tthe\tlesser\trestoration spell\tremoves\tthe\t\nblindness."
+      "Name": "Blinding Gaze (Costs 3 Actions)",
+      "Content": "The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the lesser restoration spell removes the blindness."
     }
   ],
   "MythicActions": [

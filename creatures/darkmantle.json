@@ -4,7 +4,7 @@
     "monstrosity"
   ],
   "Source": "",
-  "Type": "Small\tmonstrosity,\tunaligned",
+  "Type": "Small monstrosity, unaligned",
   "HP": {
     "Value": 22,
     "Notes": "(5d6 + 5)"
@@ -49,21 +49,21 @@
   "Traits": [
     {
       "Name": "Echolocation",
-      "Content": "The\tdarkmantle\tcan’t\tuse\tits\tblindsight\t\nwhile\tdeafened"
+      "Content": "The darkmantle can’t use its blindsight while deafened"
     },
     {
-      "Name": "False\tAppearance",
-      "Content": "While\tthe\tdarkmantle\tremains\t\nmotionless,\tit\tis\tindistinguishable\tfrom\ta\tcave\t\nformation\tsuch\tas\ta\tstalactite\tor\tstalagmite."
+      "Name": "False Appearance",
+      "Content": "While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite."
     }
   ],
   "Actions": [
     {
       "Name": "Crush",
-      "Content": "Melee\tWeapon\tAttack: +5\tto\thit,\treach\t5\tft.,\tone\t\ncreature.\tHit: 6\t(1d6\t+\t3)\tbludgeoning\tdamage,\tand\tthe\t\ndarkmantle\tattaches\tto\tthe\ttarget.\tIf\tthe\ttarget\tis\t\nMedium\tor\tsmaller\tand\tthe\tdarkmantle\thas\tadvantage\t\non\tthe\tattack\troll,\tit\tattaches\tby\tengulfing\tthe\ttarget’s\t\nhead,\tand\tthe\ttarget\tis\talso\tblinded\tand\tunable\tto\t\nbreathe\twhile\tthe\tdarkmantle\tis\tattached\tin\tthis\tway.\nWhile\tattached\tto\tthe\ttarget,\tthe\tdarkmantle\tcan\t\nattack\tno\tother\tcreature\texcept\tthe\ttarget\tbut\thas\t\nadvantage\ton\tits\tattack\trolls.\tThe\tdarkmantle’s\tspeed\t\nalso\tbecomes\t0,\tit\tcan’t\tbenefit\tfrom\tany\tbonus\tto\tits\t\nspeed,\tand\tit\tmoves\twith\tthe\ttarget.\nA\tcreature\tcan\tdetach\tthe\tdarkmantle\tby\tmaking\ta\t\nsuccessful\tDC\t13\tStrength\tcheck\tas\tan\taction.\tOn\tits\t\nturn,\tthe\tdarkmantle\tcan\tdetach\titself\tfrom\tthe\ttarget\t\nby\tusing\t5\tfeet\tof\tmovement."
+      "Content": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target’s head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle’s speed also becomes 0, it can’t benefit from any bonus to its speed, and it moves with the target.A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement."
     },
     {
-      "Name": "Darkness\tAura\t(1/Day)",
-      "Content": ". A\t15-foot\tradius\tof\tmagical\t\ndarkness\textends\tout\tfrom\tthe\tdarkmantle,\tmoves\twith\t\nit,\tand\tspreads\taround\tcorners.\tThe\tdarkness\tlasts\tas\t\nlong\tas\tthe\tdarkmantle\tmaintains\tconcentration,\tup\tto\t\n10\tminutes\t(as\tif\tconcentrating\ton\ta\tspell).\tDarkvision\t\ncan’t\tpenetrate\tthis\tdarkness,\tand\tno\tnatural\tlight\tcan\t\nilluminate\tit.\tIf\tany\tof\tthe\tdarkness\toverlaps\twith\tan\t\narea\tof\tlight\tcreated\tby\ta\tspell\tof\t2nd\tlevel\tor\tlower,\t\nthe\tspell\tcreating\tthe\tlight\tis\tdispelled."
+      "Name": "Darkness Aura (1/Day)",
+      "Content": ". A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can’t penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled."
     }
   ],
   "BonusActions": [

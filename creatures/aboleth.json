@@ -69,33 +69,33 @@
   "Traits": [
     {
       "Name": "Amphibious",
-      "Content": "The\taboleth\tcan\tbreathe\tair\tand\twater."
+      "Content": "The aboleth can breathe air and water."
     },
     {
-      "Name": "Mucous\tCloud",
-      "Content": "While\tunderwater,\tthe\taboleth\tis\t\nsurrounded\tby\ttransformative\tmucus.\tA\tcreature\tthat\t\ntouches\tthe\taboleth\tor\tthat\thits\tit\twith\ta\tmelee\tattack\t\nwhile\twithin\t5\tfeet\tof\tit\tmust\tmake\ta\tDC\t14\t\nConstitution\tsaving\tthrow.\tOn\ta\tfailure,\tthe\tcreature\tis\t\ndiseased\tfor\t1d4\thours.\tThe\tdiseased\tcreature\tcan\t\nbreathe\tonly\tunderwater."
+      "Name": "Mucous Cloud",
+      "Content": "While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 feet of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater."
     },
     {
-      "Name": "Probing\tTelepathy",
-      "Content": ". If\ta\tcreature\tcommunicates\t\ntelepathically\twith\tthe\taboleth,\tthe\taboleth\tlearns\tthe\t\ncreature’s\tgreatest\tdesires\tif\tthe\taboleth\tcan\tsee\tthe\t\ncreature.\n"
+      "Name": "Probing Telepathy",
+      "Content": ". If a creature communicates telepathically with the aboleth, the aboleth learns the creature’s greatest desires if the aboleth can see the creature."
     }
   ],
   "Actions": [
     {
       "Name": "Multiattack",
-      "Content": "The\taboleth\tmakes\tthree\ttentacle\tattacks"
+      "Content": "The aboleth makes three tentacle attacks"
     },
     {
       "Name": "Tentacle",
-      "Content": "\tMelee\tWeapon\tAttack: +9\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit: 12\t(2d6\t+\t5)\tbludgeoning\tdamage.\tIf\t\nthe\ttarget\tis\ta\tcreature,\tit\tmust\tsucceed\ton\ta\tDC\t14\t\nConstitution\tsaving\tthrow\tor\tbecome\tdiseased.\tThe\t\ndisease\thas\tno\teffect\tfor\t1\tminute\tand\tcan\tbe\tremoved\t\nby\tany\tmagic\tthat\tcures\tdisease.\tAfter\t1\tminute,\tthe\t\ndiseased\tcreature’s\tskin\tbecomes\ttranslucent\tand\tslimy,\t\nthe\tcreature\tcan’t\tregain\thit\tpoints\tunless\tit\tis\t\nunderwater,\tand\tthe\tdisease\tcan\tbe\tremoved\tonly\tby\t\nheal\tor\tanother\tdisease-curing\tspell\tof\t6th\tlevel\tor\t\nhigher.\tWhen\tthe\tcreature\tis\toutside\ta\tbody\tof\twater,\tit\ntakes\t6\t(1d12)\tacid\tdamage\tevery\t10\tminutes\tunless\t\nmoisture\tis\tapplied\tto\tthe\tskin\tbefore\t10\tminutes\thave\t\npassed."
+      "Content": " Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature’s skin becomes translucent and slimy, the creature can’t regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, ittakes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed."
     },
     {
       "Name": "Tail",
-      "Content": "Melee\tWeapon\tAttack: +9\tto\thit,\treach\t10\tft.\tone\t\ntarget.\tHit: 15\t(3d6\t+\t5)\tbludgeoning\tdamage."
+      "Content": "Melee Weapon Attack: +9 to hit, reach 10 ft. one target. Hit: 15 (3d6 + 5) bludgeoning damage."
     },
     {
-      "Name": "Enslave\t(3/Day)",
-      "Content": "The\taboleth\ttargets\tone creature\tit\t\ncan\tsee\twithin\t30\tfeet\tof\tit.\tThe\ttarget\tmust\tsucceed\ton\t\na\tDC\t14\tWisdom\tsaving\tthrow\tor\tbe\tmagically\tcharmed\t\nby\tthe\taboleth\tuntil\tthe\taboleth\tdies\tor\tuntil\tit\tis\ton\ta\t\ndifferent\tplane\tof\texistence\tfrom\tthe\ttarget.\tThe\t\ncharmed\ttarget\tis\tunder\tthe\taboleth’s\tcontrol\tand\tcan’t\t\ntake\treactions,\tand\tthe\taboleth\tand\tthe\ttarget\tcan\t\ncommunicate\ttelepathically\twith\teach\tother\tover\tany\t\ndistance.\nWhenever\tthe\tcharmed\ttarget\ttakes\tdamage,\tthe\t\ntarget\tcan\trepeat\tthe\tsaving\tthrow.\tOn\ta\tsuccess,\tthe\t\neffect\tends. No\tmore\tthan\tonce\tevery\t24\thours,\tthe\t\ntarget\tcan\talso\trepeat\tthe\tsaving\tthrow\twhen\tit\tis\tat\t\nleast\t1\tmile\taway\tfrom\tthe\taboleth."
+      "Name": "Enslave (3/Day)",
+      "Content": "The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth’s control and can’t take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth."
     }
   ],
   "BonusActions": [],
@@ -103,15 +103,15 @@
   "LegendaryActions": [
     {
       "Name": "Detect",
-      "Content": "The\taboleth\tmakes\ta\tWisdom\t(Perception)\t\ncheck."
+      "Content": "The aboleth makes a Wisdom (Perception) check."
     },
     {
-      "Name": "Tail\tSwipe",
-      "Content": "The\taboleth\tmakes\tone\ttail\tattack."
+      "Name": "Tail Swipe",
+      "Content": "The aboleth makes one tail attack."
     },
     {
-      "Name": "Psychic\tDrain\t(Costs\t2\tActions)",
-      "Content": "One\tcreature\tcharmed\t\nby\tthe\taboleth\ttakes\t10\t(3d6)\tpsychic\tdamage,\tand\t\nthe\taboleth\tregains\thit\tpoints\tequal\tto\tthe\tdamage\t\nthe\tcreature\ttakes."
+      "Name": "Psychic Drain (Costs 2 Actions)",
+      "Content": "One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes."
     }
   ],
   "MythicActions": [],
