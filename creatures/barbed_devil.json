@@ -1,0 +1,120 @@
+{
+  "Name": "Barbed Devil",
+  "systems": [
+    "OGL 5.1"
+  ],
+  "Tags": [
+    "devil", "fiend"
+  ],
+  "Source": "",
+  "Type": "Medium\tfiend\t(devil),\tlawful\tevil",
+  "HP": {
+    "Value": 110,
+    "Notes": "(13d8 + 52)"
+  },
+  "AC": {
+    "Value": 15,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "30ft"
+  ],
+  "Abilities": {
+    "Str": 16,
+    "Dex": 17,
+    "Con": 18,
+    "Int": 12,
+    "Wis": 14,
+    "Cha": 14
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "bludgeoning,\tpiercing,\tand\t\nslashing\tfrom\tnonmagical\tattacks\tthat\taren’t\tsilvered"
+  ],
+  "DamageImmunities": ["fire", "poisonn"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Str",
+      "Modifier": 6
+    },
+    {
+      "Name": "Con",
+      "Modifier": 7
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 5
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 5
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "Deception",
+      "Modifier": 5
+    },
+    {
+      "Name": "Insight",
+      "Modifier": 5
+    },
+    {
+      "Name": "Perception",
+      "Modifier": 8
+    }
+  ],
+  "Senses": [
+    "Darkvision 120ft", "Passive perception 18"
+  ],
+  "Languages": [
+    "infernal", "telepathy 120ft"
+  ],
+  "Challenge": "5 (1 800 XP)",
+  "Traits": [
+    {
+      "Name": "Barbed\tHide",
+      "Content": "At\tthe\tstart\tof\teach\tof\tits\tturns,\tthe\t\nbarbed\tdevil\tdeals\t5\t(1d10)\tpiercing\tdamage\tto\tany\t\ncreature\tgrappling\tit."
+    },
+    {
+      "Name": "Devil’s\tSight",
+      "Content": "Magical\tdarkness\tdoesn’t\timpede\tthe\t\ndevil’s\tdarkvision."
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tdevil\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tdevil\tmakes\tthree\tmelee\tattacks:\tone\t\nwith\tits\ttail\tand\ttwo\twith\tits\tclaws.\tAlternatively,\tit\tcan\t\nuse\tHurl\tFlame\ttwice."
+    },
+    {
+      "Name": "Claw",
+      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 6\t(1d6\t+\t3)\tpiercing\tdamage."
+    },
+    {
+      "Name": "Tail",
+      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 10\t(2d6\t+\t3)\tpiercing\tdamage."
+    },
+    {
+      "Name": "Hurl\tFlame",
+      "Content": "Ranged\tSpell\tAttack: +5\tto\thit,\trange\t150\t\nft.,\tone\ttarget.\tHit: 10\t(3d6)\tfire\tdamage.\tIf\tthe\ttarget\tis\t\na\tflammable\tobject\tthat\tisn’t\tbeing\tworn\tor\tcarried,\tit\t\nalso\tcatches\tfire."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

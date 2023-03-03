@@ -1,0 +1,100 @@
+{
+  "Name": "Chain devil",
+  "systems": [
+    "OGL 5.1"
+  ],
+  "Tags": [
+    "fiend", "devil"
+  ],
+  "Source": "",
+  "Type": "Medium\tfiend\t(devil),\tlawful\tevil",
+  "HP": {
+    "Value": 85,
+    "Notes": "(10d8 + 40)"
+  },
+  "AC": {
+    "Value": 16,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "30ft"
+  ],
+  "Abilities": {
+    "Str": 18,
+    "Dex": 15,
+    "Con": 18,
+    "Int": 11,
+    "Wis": 12,
+    "Cha": 14
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "bludgeoning,\tpiercing,\tand\t\nslashing\tfrom\tnonmagical\tattacks\tthat\taren’t\tsilvered"
+  ],
+  "DamageImmunities": ["fire", "poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Con",
+      "Modifier": 7
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 4
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 5
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "Darkvision 120ft", "Passive perception 11"
+  ],
+  "Languages": [
+    "Infernal", "Telepathy 120ft"
+  ],
+  "Challenge": "8 (3 900 XP)",
+  "Traits": [
+    {
+      "Name": "Devil’s\tSight",
+      "Content": "Magical\tdarkness\tdoesn’t\timpede\tthe\t\ndevil’s\tdarkvision."
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tdevil\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tdevil\tmakes\ttwo\tattacks\twith\tits\t\nchains.\n"
+    },
+    {
+      "Name": "Chain",
+      "Content": "Melee\tWeapon\tAttack: +8\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit:\t11\t(2d6\t+\t4)\tslashing\tdamage.\tThe\t\ntarget\tis\tgrappled\t(escape\tDC\t14)\tif\tthe\tdevil\tisn’t\t\nalready\tgrappling\ta\tcreature.\tUntil\tthis\tgrapple\tends,\t\nthe\ttarget\tis\trestrained\tand\ttakes\t7\t(2d6)\tpiercing\t\ndamage\tat\tthe\tstart\tof\teach\tof\tits\tturns."
+    },
+    {
+      "Name": "Animate\tChains\t(Recharges\tafter\ta\tShort\tor\tLong\tRest)",
+      "Content": "Up\tto\tfour\tchains\tthe\tdevil\tcan\tsee\twithin\t60\tfeet\tof\tit\t\nmagically\tsprout\trazor-edged\tbarbs\tand\tanimate\tunder\t\nthe\tdevil’s\tcontrol,\tprovided\tthat\tthe\tchains\taren’t\t\nbeing\tworn\tor\tcarried.\nEach\tanimated\tchain\tis\tan\tobject\twith\tAC\t20,\t20\thit\t\npoints,\tresistance\tto\tpiercing\tdamage,\tand\timmunity\tto\t\npsychic\tand\tthunder\tdamage.\tWhen\tthe\tdevil\tuses\t\nMultiattack\ton\tits\tturn,\tit\tcan\tuse\teach\tanimated\tchain\t\nto\tmake\tone\tadditional\tchain\tattack.\tAn\tanimated\t\nchain\tcan\tgrapple\tone\tcreature\tof\tits\town\tbut\tcan’t\t\nmake\tattacks\twhile\tgrappling.\tAn\tanimated\tchain\t\nreverts\tto\tits\tinanimate\tstate\tif\treduced\tto\t0\thit\tpoints\t\nor\tif\tthe\tdevil\tis\tincapacitated\tor\tdies."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+    {
+      "Name": "Unnerving\tMask",
+      "Content": "When\ta\tcreature\tthe\tdevil\tcan\tsee\t\nstarts\tits\tturn\twithin\t30\tfeet\tof\tthe\tdevil,\tthe\tdevil\tcan\t\ncreate\tthe\tillusion\tthat\tit\tlooks\tlike\tone\tof\tthe\t\ncreature’s\tdeparted\tloved\tones\tor\tbitter\tenemies.\tIf\tthe\t\ncreature\tcan\tsee\tthe\tdevil,\tit\tmust\tsucceed\ton\ta\tDC\t14\t\nNot\tfor\tresale.\tPermission\tgranted\tto\tprint\tor\tphotocopy\tthis\tdocument\tfor\tpersonal\tuse\tonly. System\tReference\tDocument\t5.1 276\nWisdom\tsaving\tthrow\tor\tbe\tfrightened\tuntil\tthe\tend\tof\t\nits\tturn."
+    }
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

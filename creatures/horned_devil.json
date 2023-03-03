@@ -1,0 +1,104 @@
+{
+  "Name": "Horned Devil",
+  "systems": [
+    "OGL 5.1"
+  ],
+  "Tags": [
+    "fiend", "devil"
+  ],
+  "Source": "",
+  "Type": "Large\tfiend\t(devil),\tlawful\tevil",
+  "HP": {
+    "Value": 178,
+    "Notes": "(17d10 + 85)"
+  },
+  "AC": {
+    "Value": 18,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "20ft", "fly 60ft"
+  ],
+  "Abilities": {
+    "Str": 22,
+    "Dex": 17,
+    "Con": 21,
+    "Int": 12,
+    "Wis": 16,
+    "Cha": 17
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "bludgeoning,\tpiercing,\tand\t\nslashing\tfrom\tnonmagical\tattacks\tnot\tmade\twith\t\nsilvered\tweapons"
+  ],
+  "DamageImmunities": ["fire", "poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Str",
+      "Modifier": 10
+    },
+    {
+      "Name": "Dex",
+      "Modifier": 7
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 7
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 7
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "Darkvision 120ft", "Passive perception 13"
+  ],
+  "Languages": [
+    "Infernal", "telepathy 120ft"
+  ],
+  "Challenge": "11 (7 200 XP)",
+  "Traits": [
+    {
+      "Name": "Devil’s\tSight",
+      "Content": "Magical\tdarkness\tdoesn’t\timpede\tthe\t\ndevil’s\tdarkvision."
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tdevil\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tdevil\tmakes\tthree\tmelee\tattacks:\ttwo\t\nwith\tits\tfork\tand\tone\twith\tits\ttail.\tIt\tcan\tuse\tHurl\tFlame\t\nin\tplace\tof\tany\tmelee\tattack."
+    },
+    {
+      "Name": "Fork",
+      "Content": "Melee\tWeapon\tAttack: +10\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit:\t15\t(2d8\t+\t6)\tpiercing\tdamage."
+    },
+    {
+      "Name": "Tail",
+      "Content": "Melee\tWeapon\tAttack: +10\tto\thit,\treach\t10\tft.,\tone\t\ntarget.\tHit:\t10\t(1d8\t+\t6)\tpiercing\tdamage.\tIf\tthe\ttarget\tis\t\na\tcreature\tother\tthan\tan\tundead\tor\ta\tconstruct,\tit\tmust\t\nsucceed\ton\ta\tDC\t17\tConstitution\tsaving\tthrow\tor\tlose\t\n10\t(3d6)\thit\tpoints\tat\tthe\tstart\tof\teach\tof\tits\tturns\tdue\t\nto\tan\tinfernal\twound.\tEach\ttime\tthe\tdevil\thits\tthe\t\nwounded\ttarget\twith\tthis\tattack,\tthe\tdamage\tdealt\tby\t\nthe\twound\tincreases\tby\t10\t(3d6).\tAny\tcreature\tcan\ttake\t\nan\taction\tto\tstanch\tthe\twound\twith\ta\tsuccessful\tDC\t12\t\nWisdom\t(Medicine)\tcheck.\tThe\twound\talso\tcloses\tif\tthe\t\ntarget\treceives\tmagical\thealing."
+    },
+    {
+      "Name": "Hurl Flame",
+      "Content": "Ranged\tSpell\tAttack: +7\tto\thit,\trange\t150\t\nft.,\tone\ttarget.\tHit: 14\t(4d6)\tfire\tdamage.\tIf\tthe\ttarget\tis\t\na\tflammable\tobject\tthat\tisn’t\tbeing\tworn\tor\tcarried,\tit\t\nalso\tcatches\tfire"
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

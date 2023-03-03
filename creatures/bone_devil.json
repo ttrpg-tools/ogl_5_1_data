@@ -1,0 +1,104 @@
+{
+  "Name": "Bone Devil",
+  "systems": [
+    "OGL 5.1"
+  ],
+  "Tags": [
+    "fiend", "devil"
+  ],
+  "Source": "",
+  "Type": "Large\tfiend\t(devil),\tlawful\tevil\n",
+  "HP": {
+    "Value": 142,
+    "Notes": "(15d10 + 60)"
+  },
+  "AC": {
+    "Value": 19,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "40ft", "fly 40ft"
+  ],
+  "Abilities": {
+    "Str": 18,
+    "Dex": 16,
+    "Con": 18,
+    "Int": 13,
+    "Wis": 14,
+    "Cha": 16
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "bludgeoning,\tpiercing,\tand\t\nslashing\tfrom\tnonmagical\tattacks\tthat\taren’t\tsilvered"
+  ],
+  "DamageImmunities": ["fire", "poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Int",
+      "Modifier": 5
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 6
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 7
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "Deception",
+      "Modifier": 7
+    },
+    {
+      "Name": "Insight",
+      "Modifier": 6
+    }
+  ],
+  "Senses": [
+    "Darkvision 120ft", "Passive perception 12"
+  ],
+  "Languages": [
+    "Infernal", "telepathy 120ft"
+  ],
+  "Challenge": "9 (5 000 XP)",
+  "Traits": [
+    {
+      "Name": "Devil’s\tSight",
+      "Content": "Magical\tdarkness\tdoesn’t\timpede\tthe\t\ndevil’s\tdarkvision."
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tdevil\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects"
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tdevil\tmakes\tthree\tattacks:\ttwo\twith\t\nits\tclaws\tand\tone\twith\tits\tsting."
+    },
+    {
+      "Name": "Claw",
+      "Content": "Melee\tWeapon\tAttack: +8\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit: 8\t(1d8\t+\t4)\tslashing\tdamage."
+    },
+    {
+      "Name": "Sting",
+      "Content": "Melee\tWeapon\tAttack: +8\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit:\t13\t(2d8\t+\t4)\tpiercing\tdamage\tplus\t17\t\n(5d6)\tpoison\tdamage,\tand\tthe\ttarget\tmust\tsucceed\ton\t\na\tDC\t14\tConstitution\tsaving\tthrow\tor\tbecome\tpoisoned\t\nfor\t1\tminute.\tThe\ttarget\tcan\trepeat\tthe\tsaving\tthrow\tat\t\nthe\tend\tof\teach\tof\tits\tturns,\tending\tthe\teffect\ton\titself\t\non\ta\tsuccess"
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

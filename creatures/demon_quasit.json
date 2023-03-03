@@ -1,0 +1,88 @@
+{
+  "Name": "Quasit",
+  "systems": [
+    "OGL 5.1"
+  ],
+  "Tags": [
+    "demon", "shapechanger"
+  ],
+  "Source": "",
+  "Type": "Tiny\tfiend\t(demon,\tshapechanger),\tchaotic\tevil",
+  "HP": {
+    "Value": 7,
+    "Notes": "(3d4)"
+  },
+  "AC": {
+    "Value": 13,
+    "Notes": ""
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "40 ft"
+  ],
+  "Abilities": {
+    "Str": 5,
+    "Dex": 17,
+    "Con": 10,
+    "Int": 7,
+    "Wis": 10,
+    "Cha": 10
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "fire", "lightning", "bludgeoning,\t\npiercing,\tand\tslashing\tfrom\tnonmagical\tattacks"
+  ],
+  "DamageImmunities": ["poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "",
+      "Modifier": 0
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "Stealth",
+      "Modifier": 5
+    }
+  ],
+  "Senses": [
+    "Darkvision 120ft", "Passive perception 10"
+  ],
+  "Languages": [
+    "abyssal", "common"
+  ],
+  "Challenge": "1 (200 XP)",
+  "Traits": [
+    {
+      "Name": "Shapechanger",
+      "Content": "The\tquasit\tcan\tuse\tits\taction\tto\t\npolymorph\tinto\ta\tbeast\tform\tthat\tresembles\ta\tbat\t\n(speed\t10\tft.\tfly\t40\tft.),\ta\tcentipede\t(40\tft.,\tclimb\t40\tft.),\t\nor\ta\ttoad\t(40\tft.,\tswim\t40\tft.),\tor\tback\tinto\tits\ttrue\tform.\t\nIts\tstatistics\tare\tthe\tsame\tin\teach\tform,\texcept\tfor\tthe\t\nspeed\tchanges\tnoted.\tAny\tequipment\tit\tis\twearing\tor\t\ncarrying\tisn’t\ttransformed.\tIt\treverts\tto\tits\ttrue\tform\tif\t\nit\tdies."
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tquasit\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Claws\t(Bite\tin\tBeast\tForm)",
+      "Content": "Melee\tWeapon\tAttack: +4\t\nto\thit,\treach\t5\tft.,\tone\ttarget.\tHit: 5\t(1d4\t+\t3)\tpiercing\t\ndamage,\tand\tthe\ttarget\tmust\tsucceed\ton\ta\tDC\t10\t\nConstitution\tsaving\tthrow\tor\ttake\t5\t(2d4)\tpoison\t\ndamage\tand\tbecome\tpoisoned\tfor\t1\tminute.\tThe\ttarget\t\ncan\trepeat\tthe\tsaving\tthrow\tat\tthe\tend\tof\teach\tof\tits\t\nturns,\tending\tthe\teffect\ton\titself\ton\ta\tsuccess."
+    },
+    {
+      "Name": "Scare\t(1/Day)",
+      "Content": "One\tcreature\tof\tthe\tquasit’s\tchoice\t\nwithin\t20\tfeet\tof\tit\tmust\tsucceed\ton\ta\tDC\t10\tWisdom\t\nsaving\tthrow\tor\tbe\tfrightened\tfor\t1\tminute.\tThe\ttarget\t\ncan\trepeat the\tsaving\tthrow\tat\tthe\tend\tof\teach\tof\tits\t\nturns,\twith\tdisadvantage\tif\tthe\tquasit\tis\twithin\tline\tof\t\nsight,\tending\tthe\teffect\ton\titself\ton\ta\tsuccess."
+    },
+    {
+      "Name": "Invisibility",
+      "Content": "The\tquasit\tmagically\tturns\tinvisible\tuntil\tit\t\nattacks\tor\tuses\tScare,\tor\tuntil\tits\tconcentration\tends\t(as\t\nif\tconcentrating\ton\ta\tspell).\tAny\tequipment\tthe\tquasit\t\nwears\tor\tcarries\tis\tinvisible\twith it."
+    }
+  ],
+  "BonusActions": [  ],
+  "Reactions": [  ],
+  "LegendaryActions": [  ],
+  "MythicActions": [],
+  "Description": ""
+}

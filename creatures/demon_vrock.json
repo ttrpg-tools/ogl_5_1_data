@@ -1,0 +1,100 @@
+{
+  "Name": "Vrock",
+  "systems": [
+    "OGL 5.1"
+  ],
+  "Tags": [
+    "demon"
+  ],
+  "Source": "",
+  "Type": "Large\tfiend\t(demon),\tchaotic\tevil",
+  "HP": {
+    "Value": 104,
+    "Notes": "(11d10 + 44)"
+  },
+  "AC": {
+    "Value": 15,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "40ft", "fly 60ft"
+  ],
+  "Abilities": {
+    "Str": 17,
+    "Dex": 15,
+    "Con": 18,
+    "Int": 8,
+    "Wis": 13,
+    "Cha": 8
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "fire", "lightning", "bludgeoning,\t\npiercing,\tand\tslashing\tfrom\tnonmagical\tattacks"
+  ],
+  "DamageImmunities": ["poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Dex",
+      "Modifier": 5
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 4
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 2
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "Darkvision 120ft", "Passive perception 11"
+  ],
+  "Languages": [
+    "abyssal", "telepathy 120ft"
+  ],
+  "Challenge": "6 (2 300 XP)",
+  "Traits": [
+    {
+      "Name": "Magic Resistance",
+      "Content": "The\tvrock\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tvrock\tmakes\ttwo\tattacks:\tone\twith\tits\t\nbeak\tand\tone\twith\tits\ttalons."
+    },
+    {
+      "Name": "Beak",
+      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t5\tft.,\tone\t\ntarget.\tHit: 10\t(2d6\t+\t3)\tpiercing\tdamage."
+    },
+    {
+      "Name": "Talons",
+      "Content": "Melee\tWeapon\tAttack: +6\tto\thit,\treach\t5\tft.,\t\none\ttarget.\tHit: 14\t(2d10\t+\t3)\tslashing\tdamage."
+    },
+    {
+      "Name": "Spores\t(Recharge\t6)",
+      "Content": "A\t15-foot-radius\tcloud\tof\ttoxic\t\nspores\textends\tout\tfrom\tthe\tvrock.\tThe\tspores\tspread\t\naround\tcorners.\tEach\tcreature\tin\tthat\tarea\tmust\t\nsucceed\ton\ta\tDC\t14\tConstitution\tsaving\tthrow\tor\t\nbecome\tpoisoned.\tWhile\tpoisoned\tin\tthis\tway,\ta\ttarget\t\ntakes\t5\t(1d10)\tpoison\tdamage\tat\tthe\tstart\tof\teach\tof\tits\t\nturns.\tA\ttarget\tcan\trepeat\tthe\tsaving\tthrow\tat\tthe\tend\t\nof\teach\tof\tits\tturns,\tending\tthe\teffect\ton\titself\ton\ta\t\nsuccess.\tEmptying\ta\tvial\tof\tholy\twater\ton\tthe\ttarget\t\nalso\tends\tthe\teffect\ton\tit."
+    },
+    {
+      "Name": "Stunning\tScreech\t(1/Day)",
+      "Content": ". The\tvrock\temits\ta\thorrific\t\nscreech.\tEach\tcreature\twithin\t20\tfeet\tof\tit\tthat\tcan\thear\t\nit\tand\tthat\tisn’t\ta\tdemon\tmust\tsucceed\ton\ta\tDC\t14\t\nConstitution\tsaving\tthrow\tor\tbe\tstunned\tuntil\tthe\tend\t\nof\tthe\tvrock’s\tnext\tturn."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

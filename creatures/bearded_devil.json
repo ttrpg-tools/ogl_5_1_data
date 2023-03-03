@@ -1,0 +1,100 @@
+{
+  "Name": "Bearded Devil",
+  "systems": [
+    "OGL 5.1"
+  ],
+  "Tags": [
+    "fiend", "devil"
+  ],
+  "Source": "",
+  "Type": "Medium\tfiend\t(devil),\tlawful\tevil",
+  "HP": {
+    "Value": 52,
+    "Notes": "(8d8 + 16)"
+  },
+  "AC": {
+    "Value": 13,
+    "Notes": "(natural armor)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "30ft"
+  ],
+  "Abilities": {
+    "Str": 16,
+    "Dex": 15,
+    "Con": 15,
+    "Int": 9,
+    "Wis": 11,
+    "Cha": 11
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "bludgeoning,\tpiercing,\tand\t\nslashing\tfrom\tnonmagical\tattacks\tthat\taren’t\tsilvered"
+  ],
+  "DamageImmunities": ["fire", "poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Str",
+      "Modifier": 5
+    },
+    {
+      "Name": "Con",
+      "Modifier": 4
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 2
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "Darkvision 120ft", "Passive perception 10"
+  ],
+  "Languages": [
+    "Infernal", "telepathy 120 ft"
+  ],
+  "Challenge": "3 (700 XP)",
+  "Traits": [
+    {
+      "Name": "Devil’s\tSight",
+      "Content": "Magical\tdarkness\tdoesn’t\timpede\tthe\t\ndevil’s\tdarkvision."
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\tdevil\thas\tadvantage\ton\tsaving\t\nthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    },
+    {
+      "Name": "Steadfast",
+      "Content": "The\tdevil\tcan’t\tbe\tfrightened\twhile\tit\tcan\tsee\t\nan\tallied\tcreature\twithin\t30\tfeet\tof\tit."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\tdevil\tmakes\ttwo\tattacks:\tone\twith\tits\t\nbeard\tand\tone\twith\tits\tglaive."
+    },
+    {
+      "Name": "Beard",
+      "Content": "Melee\tWeapon\tAttack:\t+5\tto\thit,\treach\t5\tft.,\tone\t\ncreature.\tHit: 6\t(1d8\t+\t2)\tpiercing\tdamage,\tand\tthe\t\ntarget\tmust\tsucceed\ton\ta\tDC\t12\tConstitution\tsaving\t\nthrow\tor\tbe\tpoisoned\tfor\t1\tminute.\tWhile\tpoisoned\tin\t\nthis\tway,\tthe\ttarget\tcan’t\tregain\thit\tpoints.\tThe\ttarget\t\ncan\trepeat\tthe\tsaving\tthrow\tat\tthe\tend\tof\teach\tof\tits\t\nturns,\tending\tthe\teffect\ton\titself\ton\ta\tsuccess."
+    },
+    {
+      "Name": "Glaive",
+      "Content": "Melee\tWeapon\tAttack: +5\tto\thit,\treach\t10\tft.,\t\none\ttarget.\tHit:\t8\t(1d10\t+\t3)\tslashing\tdamage.\tIf\tthe\t\ntarget\tis\ta\tcreature\tother\tthan\tan\tundead\tor\ta\t\nconstruct,\tit must\tsucceed\ton\ta\tDC\t12\tConstitution\t\nsaving\tthrow\tor\tlose\t5\t(1d10)\thit\tpoints\tat\tthe\tstart\tof\t\neach\tof\tits\tturns\tdue\tto\tan\tinfernal\twound.\tEach\ttime\t\nthe\tdevil\thits\tthe\twounded\ttarget\twith\tthis\tattack,\tthe\t\ndamage\tdealt\tby\tthe\twound\tincreases\tby\t5\t(1d10).\tAny\t\ncreature\tcan\ttake\tan\taction\tto\tstanch\tthe\twound\twith\ta\t\nNot\tfor\tresale.\tPermission\tgranted\tto\tprint\tor\tphotocopy\tthis\tdocument\tfor\tpersonal\tuse\tonly. System\tReference\tDocument\t5.1 275\nsuccessful\tDC\t12\tWisdom\t(Medicine)\tcheck.\tThe\twound\t\nalso\tcloses\tif\tthe\ttarget\treceives\tmagical\thealing."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}

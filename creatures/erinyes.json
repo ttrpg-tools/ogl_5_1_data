@@ -1,0 +1,104 @@
+{
+  "Name": "Erinyes",
+  "systems": [
+    "OGL 5.1"
+  ],
+  "Tags": [
+    "fiend", "devil"
+  ],
+  "Source": "",
+  "Type": "Medium\tfiend\t(devil),\tlawful\tevil",
+  "HP": {
+    "Value": 153,
+    "Notes": "(18d8 + 72)"
+  },
+  "AC": {
+    "Value": 18,
+    "Notes": "(plate)"
+  },
+  "InitiativeModifier": 0,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "30ft", "fly 60ft"
+  ],
+  "Abilities": {
+    "Str": 18,
+    "Dex": 16,
+    "Con": 18,
+    "Int": 14,
+    "Wis": 14,
+    "Cha": 18
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": [
+    "cold", "bludgeoning,\tpiercing,\tand\t\nslashing\tfrom\tnonmagical\tattacks\tthat\taren’t\tsilvered"
+  ],
+  "DamageImmunities": ["fire", "poison"],
+  "ConditionImmunities": [
+    "poisoned"
+  ],
+  "Saves": [
+    {
+      "Name": "Dex",
+      "Modifier": 7
+    },
+    {
+      "Name": "Con",
+      "Modifier": 8
+    },
+    {
+      "Name": "Wis",
+      "Modifier": 6
+    },
+    {
+      "Name": "Cha",
+      "Modifier": 8
+    }
+  ],
+  "Skills": [
+  ],
+  "Senses": [
+    "Truesight 120ft", "Passive perception 12"
+  ],
+  "Languages": [
+    "infernal", "telepathy 1200ft"
+  ],
+  "Challenge": "12 (8 400 XP)",
+  "Traits": [
+    {
+      "Name": "Hellish\tWeapons",
+      "Content": "The\terinyes’s\tweapon\tattacks\tare\t\nmagical\tand\tdeal\tan\textra\t13\t(3d8)\tpoison\tdamage\ton\ta\t\nhit\t(included\tin\tthe\tattacks)."
+    },
+    {
+      "Name": "Magic\tResistance",
+      "Content": "The\terinyes\thas\tadvantage\ton\tsaving\nthrows\tagainst\tspells\tand\tother\tmagical\teffects."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "The\terinyes\tmakes\tthree\tattacks."
+    },
+    {
+      "Name": "Longsword",
+      "Content": "Melee\tWeapon\tAttack: +8\tto\thit,\treach\t5\tft.,\t\none\ttarget.\tHit:\t8\t(1d8\t+\t4)\tslashing\tdamage,\tor\t9\t(1d10\t\n+\t4)\tslashing\tdamage\tif\tused\twith\ttwo\thands,\tplus\t13\t\n(3d8)\tpoison\tdamage."
+    },
+    {
+      "Name": "Longbow",
+      "Content": "Ranged\tWeapon\tAttack: +7\tto\thit,\trange\t\n150/600\tft.,\tone\ttarget.\tHit: 7\t(1d8\t+\t3)\tpiercing\t\ndamage\tplus\t13\t(3d8)\tpoison\tdamage,\tand\tthe\ttarget\t\nmust\tsucceed\ton\ta\tDC\t14\tConstitution\tsaving\tthrow\tor\t\nbe\tpoisoned.\tThe\tpoison\tlasts\tuntil\tit\tis\tremoved\tby\tthe\t\nlesser\trestoration spell\tor\tsimilar\tmagic."
+    }
+  ],
+  "BonusActions": [
+  ],
+  "Reactions": [
+    {
+      "Name": "Parry",
+      "Content": "The\terinyes\tadds\t4\tto\tits\tAC\tagainst\tone\tmelee\t\nattack\tthat\twould\thit\tit.\tTo\tdo\tso,\tthe\terinyes\tmust\tsee\t\nthe\tattacker\tand\tbe\twielding\ta\tmelee\tweapon."
+    }
+  ],
+  "LegendaryActions": [
+  ],
+  "MythicActions": [
+  ],
+  "Description": ""
+}
