@@ -1,5 +1,8 @@
 {
   "Name": "Azer",
+  "systems": [
+    "OGL 5.1"
+  ],
   "Tags": [
     "elemental"
   ],

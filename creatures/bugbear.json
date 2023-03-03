@@ -1,5 +1,8 @@
 {
   "Name": "Bugbear",
+  "systems": [
+    "OGL 5.1"
+  ],
   "Tags": [
     "humanoid", "goblinoid"
   ],

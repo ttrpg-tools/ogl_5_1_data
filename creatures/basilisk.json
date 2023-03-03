@@ -1,5 +1,8 @@
 {
   "Name": "Basilisk",
+  "systems": [
+    "OGL 5.1"
+  ],
   "Tags": [
     "monstrosity"
   ],

@@ -1,5 +1,8 @@
 {
   "Name": "Animated armor",
+  "systems": [
+    "OGL 5.1"
+  ],
   "Tags": [
     "animated object", "construct"
   ],

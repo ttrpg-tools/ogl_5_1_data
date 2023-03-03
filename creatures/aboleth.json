@@ -1,5 +1,8 @@
 {
   "Name": "Aboleth",
+  "systems": [
+    "OGL 5.1"
+  ],
   "Tags": [
     "aberration"
   ],

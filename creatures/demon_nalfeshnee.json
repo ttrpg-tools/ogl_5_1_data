@@ -1,5 +1,8 @@
 {
   "Name": "Nalfeshnee",
+  "systems": [
+    "OGL 5.1"
+  ],
   "Tags": [
     "fiend", "demon"
   ],

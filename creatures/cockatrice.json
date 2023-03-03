@@ -1,5 +1,8 @@
 {
   "Name": "Cockatrice",
+  "systems": [
+    "OGL 5.1"
+  ],
   "Tags": [
     "monstrosity"
   ],

@@ -1,5 +1,8 @@
 {
   "Name": "Flying sword",
+  "systems": [
+    "OGL 5.1"
+  ],
   "Tags": [
     "animated object", "construct"
   ],

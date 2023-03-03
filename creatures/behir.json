@@ -1,5 +1,8 @@
 {
   "Name": "Behir",
+  "systems": [
+    "OGL 5.1"
+  ],
   "Tags": [
     "montrosity"
   ],

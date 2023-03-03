@@ -1,5 +1,8 @@
 {
   "Name": "Balor",
+  "systems": [
+    "OGL 5.1"
+  ],
   "Tags": [
     "demon", "fiend"
   ],

@@ -1,5 +1,8 @@
 {
   "Name": "Planetar",
+  "systems": [
+    "OGL 5.1"
+  ],
   "Tags": [
     "angel", "celestial"
   ],
